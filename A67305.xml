@@ -1,0 +1,3474 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Victorious love a tragedy, as it is acted at the Theatre-Royal in Drewry-Lane / written by Mr. William Walker.</title>
+            <author>Walker, William, d. 1726.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 110 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67305</idno>
+            <idno type="STC">Wing W455</idno>
+            <idno type="STC">ESTC R9390</idno>
+            <idno type="EEBO-CITATION">12924859</idno>
+            <idno type="OCLC">ocm 12924859</idno>
+            <idno type="VID">95497</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67305)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95497)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 729:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Victorious love a tragedy, as it is acted at the Theatre-Royal in Drewry-Lane / written by Mr. William Walker.</title>
+                  <author>Walker, William, d. 1726.</author>
+               </titleStmt>
+               <extent>[12], 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ralph Smith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First edition.</note>
+                  <note>Cf. A Catalogue of the library of ... John Henry Wrenn. Austin, Tex., 1920, v. 5, p. 88.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95497:1"/>
+            <p>Victorious Love: A TRAGEDY, As it is ACTED at the THEATRE-ROYAL in <hi>Drewry-Lane.</hi>
+            </p>
+            <p>
+               <hi>Written by Mr.</hi> William Walker.</p>
+            <p>
+               <hi>Heu! quamvis puerum me quoque vexat amor.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Ralph Smith</hi> at the <hi>Bible</hi> under the <hi>Royal Exchange</hi> in <hi>Cornhill,</hi> 1698.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:95497:2" rendition="simple:additions"/>
+            <pb facs="tcp:95497:2"/>
+            <head>THE <hi>EPISTLE DEDICATORY</hi> To the HONOURABLE James Kendal, Eſq; One of the LORDS of the ADMIRALTY.</head>
+            <p>
+               <hi>THERE is a ſecret Pleaſure as well as Awe in addreſſing to thoſe above us, we flatter our ſelves that from their height we receive ſome addition to our own, that we are like Vapours drawn up by their Influence; it ſatisfies our Ambition, the moſt prevailing Paſſion of the moſt elevated Souls, but when, beſides the advantages of Birth and Fortune, they have all the powers of the Soul in full Perfection, its Operations, Harmonious, piercing Wit, quick Apprehenſion, unerring Judgment, qualified with the moſt candid Temper inclineing to o'relook the defects of their In<g ref="char:EOLhyphen"/>feriours, all theſe crownd with the most engaging graces of an agreeable inviting Converſation, then our Souls are truly raviſhed, 'tis then we really are what we cannot expreſs. How then muſt I be extaſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d when bleſt with that Eloquence which charm'd the Savage</hi> Indians, <hi>with</hi> Orphean <hi>ſtrains infus'd a Soul into the Barbarous World? What greater proof of all your Virtues, than his Moſt Sacred Majeſtyes choice of you to repreſent his Royal Perſon in an Iſland which none but you could govern? Whoſe Inhabitants are by Nature brave and generous, but by their unhappy diſtance from our World deprived of all advantages by Learning and Polite Converſe, ſo that they required</hi>
+               <pb facs="tcp:95497:3"/> 
+               <hi>a</hi> Philoſopher <hi>as well as</hi> Politician <hi>for their head. How wiſely you diſcharg'd that office their Improvements demonſtrate, their noble fortifications ſpeak you as great a Warriour as your judicious Laws and prudent Management a</hi> Politician, <hi>and both the most lively Image of your Royal Master: But what commands at once our Thanks and Admiration, is, that you</hi> Civiliz'd <hi>the</hi> People, Grafted <hi>good</hi> Breeding <hi>on this unpoliſht ſtock,</hi> Refin'd <hi>their</hi> Principles <hi>in</hi> Re<g ref="char:EOLhyphen"/>ligion, Policy <hi>and</hi> Manners, <hi>and by your own moſt Inſtructive Ex<g ref="char:EOLhyphen"/>ample made 'em indeed Humane: You Inform'd the Ignorant, Con<g ref="char:EOLhyphen"/>firm'd the Wiſe, with your winning Behaviour brought over even Prejudice, and with a becoming Grandeur curb'd thoſe inſolent Seditious Spirits whom</hi> no King could govern nor no God could pleaſe; <hi>this indeed was a Master-ſtroke which we muſt admire without preſuming to comprehend. To whom then ſhould my poor Off-ſpring ſue for Pro<g ref="char:EOLhyphen"/>tection but to him in whom all Virtues meet that are Eſſential to a Patron? You honoured me with your preſence at its Repreſentation, and 'twas my ambition it ſhould be as happy in the</hi> Preſs <hi>as upon the</hi> Stage, <hi>which has drawn upon you the inconvcnience of a</hi> Dedication; <hi>ſo dangerous is it to countenance a young Poet who upon one favour builds his pretentions to another: That which most emboldened me was the great Eſteem you have ever expreſſed for my Father, this made me preſume you would protect his Son; but I forget while I beg your Patronage I ſhould alſo beg your Pardon for detaining you with ſuch a trifle from Affairs of the greatest moment, and that I may not perſist in my rudeneſs I beg leave to aſſure you, I am with all Sincerity,</hi>
+            </p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your moſt Humble and moſt Obedient Servant, William Walker.</signed>
+               <dateline>London, <date>the 14th <hi>July,</hi> 1698.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:95497:3"/>
+            <head>The Preface.</head>
+            <p>I Know nothing can better Excuſe my attempt to Write, than that it Sooth'd and Indulg'd my Melancholy in my Solitary Retreat. Thus, by my Grief. Inſtructed, I be<g ref="char:EOLhyphen"/>gan; but e re I had Finiſh'd the Third Act, the unhap<g ref="char:EOLhyphen"/>py poſture of my Afairs, with other Diſtractions, ſcon Incapacitated me for ſo great a Work as Tragedy; ſo that I Abruptly broke off, and threw it aſide; but, ſoon Reſumed my Task, and, in Four days finiſh'd the Two remaining Acts. The Whole coſt me Three Weeks; for which ſmall loſs of Time (if the Severer ſort will have it ſo) I am ſufficiently Recom<g ref="char:EOLhyphen"/>penc'd by the Kind Reception it met with among thoſe whom I deſign'd to pleaſe; which has almoſt made me vain enough to imagine, had it been Expoſed in Winter, and in the Favourite Houſe, I had ſucceeded beyond my expectation.</p>
+            <p>I hear yet of no Objections againſt the Play; which confirms me in my former hopes, that the <hi>Criticks</hi> would over-look me, as below their Conſideration; and indeed many may be made and I n'er hear of 'em, not having the happineſs to be Intimate with any of the <hi>Criticks,</hi> or to Converſe with thoſe that are: They ſa<g ref="char:EOLhyphen"/>tisfie the utmoſt of my Ambition, if they but grant, there is an Air of Nature ſhines thro' the Play; and that I am guilty of no Monſtrous Abſurdities. What other Imperfections there are, my Age will, I hope, (at leaſt to ſavourable Iudges) excuſe.</p>
+            <p>I am blamed for ſuffering my Play to be Acted at the Theatre-Royal, accus'd of Fooliſh Preſumption, in ſetting my weak Shoulders to Prop this Declining Fabrick, and of affronting the Town, in Favouring whom they Diſcountenance: This is a heavy Charge, and ſuch as I never dreamt of, nor am able to clear my ſelf from, but by ſolemnly Profeſſing none of theſe Grating Motives induc'd me to it. It has indeed been my Fate to be ſway'd more by Affection than Intereſt.</p>
+            <pb facs="tcp:95497:4"/>
+            <p>I hear ſome are diſpleas'd I appear'd in my Play my ſelf, e<g ref="char:EOLhyphen"/>ſteeming it below me: but how a Gentleman demeans himſelf more, in Acting for his Diverſion, than in Hunting, or any other Gentile Recreation, where eve<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Mechanicks</hi> are admitted with e<g ref="char:EOLhyphen"/>qual Freedom, is above my reach: It is hard I alone ſhould be Cenſur'd, when I was not without Precedents, and they with ſucceſs too, tho' they were Parrots to others, I only to my ſelf: I was advis'd to it by ſeveral of my Friends, Men of very good Quality, and, I'm ſure, of more Honour, than to perſwade a Gentleman to any thing below him. However, if I'm in the wrong, I'm not ſo Opiniaſtre to oppoſe my ſingle Judgment to that of the whole Town, but ſubmit.</p>
+            <p>I am Obligd to <hi>Sylvius</hi> (tho' unknown) for his undeſerv'd <hi>Panagerick,</hi> which I have Publiſht, not out of Vanity, but that the Applauſe it Merits, and I hope will meet with, may tempt him to diſcover himſelf, that I may know my Benefactor.</p>
+            <closer>
+               <signed>W. W.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:95497:4"/>
+            <head>TO Mr. Walker, On his PLAY, calld, VICTORIOUS LOVE.</head>
+            <l>
+               <hi>AS ſome bold Knight (his late Adventure loſt)</hi>
+            </l>
+            <l>
+               <hi>With Blows and Wounds his Bloody Fame to boast,</hi>
+            </l>
+            <l>
+               <hi>Leans with Regret—</hi>
+            </l>
+            <l>
+               <hi>On the next Oak his yet unylelding Load;</hi>
+            </l>
+            <l>
+               <hi>But if he hears the Claſh of Arms abroad,</hi>
+            </l>
+            <l>
+               <hi>Starts—ſhakes his broken Launce, and dares the road;</hi>
+            </l>
+            <l>
+               <hi>Wild as the Forreſt which he leaves, to aid</hi>
+            </l>
+            <l>
+               <hi>Some Brother Champion, or relieve ſome Maid;</hi>
+            </l>
+            <l>
+               <hi>So I, my Friend, who late maintain'd the Charms</hi>
+            </l>
+            <l>
+               <hi>Of my lov'd Muſe, now raviſh'd from my Arms,</hi>
+            </l>
+            <l>
+               <hi>Rous'd by your Combat, to aſſiſt you flew;</hi>
+            </l>
+            <l>
+               <hi>In vain—all Conquer who can Fight like you.</hi>
+            </l>
+            <l>
+               <hi>Go bravely on inſult thy Gyant Foes</hi>
+            </l>
+            <l>
+               <hi>Slight their huge bulk it now no larger grows.</hi>
+            </l>
+            <l>
+               <hi>Like</hi> Mars <hi>you only could this Earth born Rage oppoſe.</hi>
+            </l>
+            <l>
+               <hi>All that they could, they did, this Fame's your own,</hi>
+            </l>
+            <l>
+               <hi>You ſtood the ſhock of Numbers, you alone;</hi>
+            </l>
+            <l>
+               <hi>And there 'tis Conquest not to be o'rethrown.</hi>
+            </l>
+            <l>
+               <hi>Tho' Biggots talk, strike boldly on, and win,</hi>
+            </l>
+            <l>
+               <hi>Where Wits make War, ſuch fools will venture in.</hi>
+            </l>
+            <l>
+               <hi>Let not rais'd Pride ingroſs the Poet's hill,</hi>
+            </l>
+            <l>
+               <hi>It has two Tops, one must be yours—it will.</hi>
+            </l>
+            <l>
+               <hi>
+                  <g ref="char:V">Ʋ</g>nthinking Bards, or for ſome cauſe unknown,</hi>
+            </l>
+            <l>
+               <hi>Rais'd up a Tyrant they can ill pull down.</hi>
+            </l>
+            <l>
+               <hi>And yet great</hi> Dryden <hi>lives—</hi>
+            </l>
+            <l>
+               <hi>Thus from true Worſhip blinded</hi> Pagans <hi>ſtray'd,</hi>
+            </l>
+            <l>
+               <hi>Form'd Idol Gods that damn'd them, yet obey'd.</hi>
+            </l>
+            <l>
+               <hi>Perſue your courſe, and a lost Stage maintain,</hi>
+            </l>
+            <l>
+               <hi>In Wits wide Empire none ſhall Monarch Reign.</hi>
+            </l>
+            <l>
+               <hi>Could any one, you muſt all elſe excel,</hi>
+            </l>
+            <l>
+               <hi>So very young, you write ſo very well.</hi>
+            </l>
+            <closer>
+               <signed>Sylvius.</signed>
+            </closer>
+         </div>
+         <div type="prologue">
+            <pb facs="tcp:95497:5"/>
+            <head>Prologue, Sent by a Friend, Between a <hi>Tragaedian</hi> and a <hi>Comoedian.</hi>
+            </head>
+            <sp>
+               <speaker>Trag. Enters.</speaker>
+               <l>
+                  <hi>AS murmuring Oceans lull'd to Peaceful eaſe.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Com. Mimicks.</speaker>
+               <l>
+                  <hi>As murmuring Oceans lull'd to Peaceful eaſe.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Trag.</speaker>
+               <l>
+                  <hi>What means the fool?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <l>
+                  <hi>To play the fool and pleaſe:</hi>
+               </l>
+               <l>
+                  <hi>You bring a tedious ſimile ſo flat</hi>
+               </l>
+               <l>
+                  <hi>Of Oceans, winds and waves, with the Devil knows what,</hi>
+               </l>
+               <l>
+                  <hi>And think to pleaſe with ſtile ſo great and gawdy—</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Trag.</speaker>
+               <l>
+                  <hi>What would you ſay, Sir?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <l>
+                  <hi>Why I'd ſpeak bawdy.</hi>
+               </l>
+               <l>
+                  <hi>A ſmutty whim ſtill the whole Audience takes,</hi>
+               </l>
+               <l>
+                  <hi>Whim pleaſes Fools, and ſmuttyneſs the Rakes.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Trag.</speaker>
+               <l>
+                  <hi>Nor Rakes, nor Fools, my buſineſs is to fear.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <l>
+                  <hi>Then faith good Sir you have no buſineſs here.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Trag.</speaker>
+               <l>
+                  <hi>To pleaſe the fair was my intended Rule.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <l>
+                  <hi>Leave that to me, I best can play the Fool.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Trag.</speaker>
+               <l>
+                  <hi>What! a buffoon Prologue to deep Tragick fear?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <l>
+                  <hi>'Tis new.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Trag.</speaker>
+               <l>
+                  <hi>So is Nonſence.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <l>
+                  <hi>No, not here.</hi>
+               </l>
+               <l>
+                  <hi>Wit whets like Wine which before Meals we quaff,</hi>
+               </l>
+               <l>
+                  <hi>To make the Ladys cry, firſt make 'em laugh.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Trag.</speaker>
+               <l>
+                  <hi>Zoons Sir the Poet ſent you here to trick me.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <l>
+                  <hi>You and the Poet both are Coxcombs, ſnick me.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Trag.</speaker>
+               <l>
+                  <hi>Then may his Play be damn'd, I humbly crave it.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <l>
+                  <hi>Don't damn.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Trag.</speaker>
+               <l>
+                  <hi>Damn it.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <l>
+                  <hi>Don't ſwear.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Trag.</speaker>
+               <l>
+                  <hi>Damn it.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <l>
+                  <hi>Save it. <stage>[Exeunt repeating the laſt line.</stage>
+                  </hi>
+               </l>
+            </sp>
+         </div>
+         <div type="epilogue">
+            <pb facs="tcp:95497:5"/>
+            <head>Epilogue, By the ſame Gentleman, Spoke by Mrs. <hi>Croſs.</hi>
+            </head>
+            <lg>
+               <l>
+                  <hi>TO Sing, to Court, to Dreſs, to Fence, to Dance,</hi>
+               </l>
+               <l>
+                  <hi>All draw their Rules from niceties of</hi> France;</l>
+               <l>
+                  <hi>Our Author too 'cauſe great</hi> Molliere <hi>did Play</hi>
+               </l>
+               <l>
+                  <hi>Muſt Mimick</hi> France, <hi>and play the fool to day.</hi>
+               </l>
+               <l>
+                  <hi>To write of Love ſo young we hear of few,</hi>
+               </l>
+               <l>
+                  <hi>He at Eighteen dares Write and Act it too.</hi>
+               </l>
+               <l>
+                  <hi>As to the Hero I cant justly tell,</hi>
+               </l>
+               <l>
+                  <hi>But faith he acts the Lover pretty well,</hi>
+               </l>
+               <l>
+                  <hi>His</hi> Africans <hi>he makes a Hell of Snow,</hi>
+               </l>
+               <l>
+                  <hi>For what Torments us moſt we reckon ſo,</hi>
+               </l>
+               <l>
+                  <hi>And Cold's the greateſt Plague thoſe Mortals know.</hi>
+               </l>
+               <l>
+                  <hi>He ſays he for my ſake this Play decreed,</hi>
+               </l>
+               <l>
+                  <hi>Then I for his ſake beg it may ſucceed.</hi>
+               </l>
+               <l>
+                  <hi>Since then this Inſects by my Influence bred</hi>
+               </l>
+               <l>
+                  <hi>Deſtroy it not e're the third Entry's made.</hi>
+               </l>
+               <l>
+                  <hi>My Deity muſt bend to an Ignoble Fate,</hi>
+               </l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nleſs I can Preſerve what I Create.</hi>
+               </l>
+               <l>
+                  <hi>But if you ſhould, I make no curſe but this,</hi>
+               </l>
+               <l>
+                  <hi>May your dear Love-Intriegues go all amiſs,</hi>
+               </l>
+               <l>
+                  <hi>The Men be hot as our Hell, the Lady's cold as his</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb facs="tcp:95497:6"/>
+            <head>SONG. Sung by Mrs. <hi>CROSS.</hi>
+            </head>
+            <lg>
+               <l>MYrtillo <hi>Dead, and I a Slave!</hi>
+               </l>
+               <l>
+                  <hi>What Sorrow can ſuffice?</hi>
+               </l>
+               <l>
+                  <hi>Madneſs aſſiſt a Wretch to rave,</hi>
+               </l>
+               <l>
+                  <hi>And Fountains fill my Eyes.</hi>
+               </l>
+               <l>
+                  <hi>But, ah! what Pomp of Woe can prove,</hi>
+               </l>
+               <l>
+                  <hi>The juſt Endearments of our Love?</hi>
+               </l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>
+                  <hi>One Soul our Bodies did encloſe,</hi>
+               </l>
+               <l>
+                  <hi>One Tomb ſhall hold our Dust:</hi>
+               </l>
+               <l>
+                  <hi>He periſht by relentleſs Foes,</hi>
+               </l>
+               <l>
+                  <hi>I follow, to be Juſt.</hi>
+               </l>
+               <l>
+                  <hi>For, ah! no Pangs, or pompous Grief,</hi>
+               </l>
+               <l>
+                  <hi>Can bring him back, or me Relief.</hi>
+               </l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>
+                  <hi>His Lips, thoſe wither'd Roſes now,</hi>
+               </l>
+               <l>
+                  <hi>I'll kiſs again to Life;</hi>
+               </l>
+               <l>
+                  <hi>And ſacred keep my Nuptial Vow,</hi>
+               </l>
+               <l>
+                  <hi>Or dye, and end the Strife.</hi>
+               </l>
+               <l>
+                  <hi>For, ah! what ſighing Notes can ſhew</hi>
+               </l>
+               <l>Myrtillo's <hi>Worth, or</hi> Sylvia's <hi>Woe?</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:95497:6"/>
+            <p>Printed and Sold by <hi>Ralph Smith,</hi> at the <hi>Bible</hi> under the <hi>Royal Exchange.</hi>
+            </p>
+            <p>
+               <hi>HYmens Praeludia;</hi> or, <hi>Loves Maſter<g ref="char:EOLhyphen"/>piece;</hi> being that ſo much Admired <hi>Romance,</hi> Intituled, <hi>Cleopatra,</hi> in Twelve Parts; Elegantly Render'd in <hi>Engliſh,</hi> by <hi>Robert Loveday.</hi>
+            </p>
+            <p>The <hi>Humorous Lieutenant;</hi> or, The <hi>Ge<g ref="char:EOLhyphen"/>nerous Enemies,</hi> A <hi>Comedy.</hi>
+            </p>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:95497:7"/>
+            <head>DRAMATIS PERSONAE.</head>
+            <list>
+               <head>MEN.</head>
+               <item>
+                  <hi>Jamoan.</hi> Emperour of <hi>Tombut,</hi>
+               </item>
+               <item>
+                  <hi>Barnagaſſo.</hi> King of <hi>Gualata,</hi>
+               </item>
+               <item>
+                  <hi>Zanhaga.</hi> Uncle to the <hi>Emperour,</hi>
+               </item>
+               <item>
+                  <hi>Barſiloa.</hi> His Son, the <hi>General,</hi>
+               </item>
+               <item>
+                  <hi>Dafila.</hi> His Second Son, a Youth,</item>
+               <item>
+                  <hi>Marabou. Prieſt</hi> of the <hi>Sun.</hi>
+               </item>
+            </list>
+            <list>
+               <head>WOMEN.</head>
+               <item>
+                  <hi>Zaraida.</hi> An <hi>Europaean</hi> Shipwrack'd, Mrs. <hi>Croſs.</hi> an Infant at <hi>Gualata,</hi>
+               </item>
+               <item>
+                  <hi>Officer, Guard, Muſicians, Spi<g ref="char:EOLhyphen"/>rits,</hi> &amp;c.</item>
+            </list>
+            <p>
+               <hi>SCENE</hi> the <hi>Banze,</hi> or <hi>Pallace</hi> of <hi>Tombut.</hi>
+            </p>
+            <p>Time, <hi>the ſame with that of the</hi> Repreſentation.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act_and_scene">
+            <pb n="1" facs="tcp:95497:7"/>
+            <head>ACT I. SCENE I.</head>
+            <stage>
+               <hi>Enter</hi> Zanhaga <hi>and</hi> Dafila.</stage>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>WEll <hi>Dafila,</hi> How do you like the Charge</l>
+               <l>The King, my Nephew; has preferr'd you to?</l>
+               <l>How fares the Beauteous Captive? Say my Son.</l>
+            </sp>
+            <sp>
+               <speaker>Daf.</speaker>
+               <l>Deaf to all Joys but thoſe ſhe finds in Love:</l>
+               <l>Whole Crowds of Courtiers ſnarling, gaze upon me,</l>
+               <l>And Whiſpering, Curſe the Partial Emperour;</l>
+               <l>Then ſwelling; call me Awkward Boy, and with</l>
+               <l>Their angry Brows threaten to foyl my Youth.</l>
+            </sp>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>Your Innocence, my Child, which mov'd him to</l>
+               <l>Repoſe this Truſt in you, will keep you ſafe.</l>
+            </sp>
+            <sp>
+               <speaker>Daf.</speaker>
+               <l>Like new-fledg d Birds, untaught to flye, I ſtrive,</l>
+               <l>And fain would bear me through the yielding Air;</l>
+               <l>I leap but fearfully from Shrub to Shrub,</l>
+               <l>Nor dare I truſt the Unknown Heav'n; Father,</l>
+               <l>You muſt direct my early Flights; take, take</l>
+               <l>Me on your Wing, and teach me how to beat</l>
+               <l>Secure in this uncertain Wav'ring Air.</l>
+            </sp>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>What ſhall I teach thee, ſay my <hi>Dafila?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Daf.</speaker>
+               <l>Since then the King can deign to look on me,</l>
+               <l>That I may not diſgrace his Truſt too far,</l>
+               <l>As my poor Ignorance, unus'd to Courts,</l>
+               <l>Muſt needs, unleſs you help; tell me, for I</l>
+               <l>Have nought diſtinctly heard, clear my dark thoughts,</l>
+               <l>Relate the ſource, and progreſs of theſe Wars,</l>
+               <l>What could induce our Mighty Emperour</l>
+               <l>To War upon <hi>Gualata</hi>'s King, whom Fame</l>
+               <l>Reports as Bounteous as a God?</l>
+            </sp>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>'Twas Love ſeduc'd our Monarchs heart,</l>
+               <l>The ſtrongeſt paſſion, and the weakeſt too:</l>
+               <l>There was an infant Shipwreck'd at <hi>Gualata,</hi>
+               </l>
+               <l>So wondrous fair, our <hi>Africk</hi> ſtood amaz'd;</l>
+               <pb n="2" facs="tcp:95497:8"/>
+               <l>
+                  <hi>Affrick,</hi> ſo us'd to Wonders, gaz'd at this;</l>
+               <l>Our Maſter, grown in Love, diſpatch't an Embaſſy</l>
+               <l>Of their Old King, <hi>Senega,</hi> then alive,</l>
+               <l>Demanding her, he was deny'd; her heart</l>
+               <l>Was to young <hi>Barnagaſſo</hi> deep engag'd,</l>
+               <l>Who then reſided there; the King not wont</l>
+               <l>To be refus'd, Swore to revenge th' Affront;</l>
+               <l>Yet Cunning in his Rage, hid his Deſigns,</l>
+               <l>And, like a Serpent, circled in his Head,</l>
+               <l>Where e'ry Paſſion as in Councel ſate</l>
+               <l>In the deepeſt center; but ſoon ſally'd forth,</l>
+               <l>And as ſhe paſs'd by <hi>Tombu</hi>'s Frontiers to her Lord,</l>
+               <l>Surpriz'd this Fair, who ſince in <hi>Tombu</hi> Mourns.</l>
+            </sp>
+            <sp>
+               <speaker>Daf.</speaker>
+               <l>How did young <hi>Barnagaſſo</hi> brook this Rape?</l>
+            </sp>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>His grief deny'd the common Outlet, tears,</l>
+               <l>Like Waters pent in hollow Caverns ſhook,</l>
+               <l>His Frame, then with an Earthquakes force,</l>
+               <l>Tore wide its narrow bounds, and burſt the Deluge forth</l>
+               <l>With which o'rewhelm'd, amidſt his Guards</l>
+               <l>Thrice the brave Heroe ſunk; but ſoon he roſe,</l>
+               <l>For rallying Reaſon wip'd the Woman from his eyes,</l>
+               <l>And bold Revenge alone his thoughts employ'd.</l>
+            </sp>
+            <sp>
+               <speaker>Daf.</speaker>
+               <l>For Injur'd Beauty, and a Raviſh'd Wife</l>
+               <l>Revenge is ſurely juſt, but pray proceed.</l>
+            </sp>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>The good old King had long indulg'd his eaſe,</l>
+               <l>His years had long excus'd him Wars rough toyls;</l>
+               <l>Yet now touch'd with his Darlings wrongs, he griev'd</l>
+               <l>That he had been, but was no more, his Age</l>
+               <l>Reflected on the Battels which his youth had won,</l>
+               <l>With envious Pride ſurvey'd his Wounds, inſpir'd by theſe,</l>
+               <l>Like one in Renovating Juices ſteep'd,</l>
+               <l>His Soul rowz'd from it's Lethargy, ſhook off</l>
+               <l>Inglorious eaſe, and boldly call'd for War;</l>
+               <l>But Fate deſign'd his Soul for reſt, he dy'd;</l>
+               <l>And with his Crown Entail'd the War</l>
+               <l>On <hi>Barnagaſſo,</hi> which he lead eager on reſolv'd,</l>
+               <l>To hazard all for her Reliefe:</l>
+               <l>But ſoon your Brother ſtopp'd this Rapid Flood,</l>
+               <l>O'repow'rd with numbers this Invading King,</l>
+               <pb n="3" facs="tcp:95497:8"/>
+               <l>Whom now in Triumph he to <hi>Tombu</hi> leads,</l>
+            </sp>
+            <sp>
+               <speaker>Daf.</speaker>
+               <l>By Heaven's this Story Warms, and Cools me too;</l>
+               <l>My Youthful blood boyls at the Thoughts of VVar,</l>
+               <l>And yet I'm cold, to think our Emperour</l>
+               <l>Should force ſuch ſoftneſs from her Virgin Flame,</l>
+               <l>How glorious would it be to curb his Love,</l>
+               <l>And give her Body where her Soul is plac'd?</l>
+            </sp>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>You ſhew your ſelf a Novice every way,</l>
+               <l>This Fair unknown has ſuch Inviting Charms</l>
+               <l>As may excuſe the boldeſt Raviſher.</l>
+            </sp>
+            <sp>
+               <speaker>Daf.</speaker>
+               <l>Oh, Father, you miſtake, her Eyes would turn</l>
+               <l>His ſavage heart, he'd Adoration pay</l>
+               <l>To that Fair Shrine which he could not pollute.</l>
+            </sp>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>Yours is Aereal love, not fit for Kings,</l>
+               <l>Whoſe groſſer apetites deſcend ſo low,</l>
+               <l>That but to purchaſe for themſelves a moments bliſs,</l>
+               <l>They'd ſacrifice the quiet of anothers life;</l>
+               <l>But you ſhould check my Boy this cheating flame,</l>
+               <l>Should this be known, your head muſt anſwer it.</l>
+            </sp>
+            <sp>
+               <speaker>Daf.</speaker>
+               <l>'Tis hard to dye for what we cannot help,</l>
+               <l>All Sects are pleas'd their God ſhould be ador'd,</l>
+               <l>Why then ſhould mighty <hi>Jamoan</hi> diſallow my love?</l>
+            </sp>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>Take heed, you're in the Court, where ev'n your looks</l>
+               <l>Are too ſeverely ſcann'd, no word but's ſcrew'd</l>
+               <l>To a forc'd meaning: I muſt to the King,</l>
+               <l>Whom I begin to view with envious Eyes,</l>
+               <l>The growing miſchief rolls diſjointed here,</l>
+               <l>
+                  <stage>[Aſide. Pointing to his Head.</stage>
+               </l>
+               <l>And wants a moments thought to ripen it;</l>
+               <l>My Child ſtay not long after me, the King</l>
+               <l>Expects you, to make up the Court to day.
+<stage>Exit.</stage>
+               </l>
+            </sp>
+            <stage>Dafila, Solus.</stage>
+            <sp>
+               <speaker>Daf.</speaker>
+               <l>Is it a fault to love in one ſo young?</l>
+               <l>What pity 'tis ſo ſweet a bliſs ſhould not</l>
+               <l>Be lawful too! Why does my duty bid me hold</l>
+               <l>When I deſigne no ill? What crime can I</l>
+               <l>Commit, who only ſtrive to pleaſe? yet Heav'n</l>
+               <l>Pardon my years, if you will count it Sin,</l>
+               <l>All youths have their one fault, and love is mine.
+<stage>Exit.</stage>
+               </l>
+               <stage>
+                  <pb n="4" facs="tcp:95497:9"/>SCENE <hi>drawn diſcovers the Emperour on an Imperial Throne,</hi> Zanhaga, Dafila <hi>(who enters in the midſt of the dance)</hi> &amp;c. <hi>a Warlike Dance ended they come forward.</hi>
+               </stage>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>Sound there, ſound louder yet your brazen notes,</l>
+               <l>Let ev'ry accent reach the Thrones above,</l>
+               <l>Stop our bright Father with repeated charms,</l>
+               <l>Let him look down, and ſee his ſporting Son</l>
+               <l>Crown'd a victorious King a mortal God.</l>
+            </sp>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>What more could he himſelf have done?</l>
+               <l>From his high hopes you hurl'd young <hi>Gualata</hi> down,</l>
+               <l>And in exchange for Scepters, gave him chains.</l>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>My weari'd People by his chains I freed,</l>
+               <l>
+                  <hi>Africk</hi> no more ſhall tremble with alarms,</l>
+               <l>Nor Babes be huſh'd with <hi>Barnagaſſo's</hi> name,</l>
+               <l>Curs'd be that name, more curſt my General,</l>
+               <l>Who ſpar'd his life; What hindr'ed him to've lopp'd</l>
+               <l>The haughty boy, and made my joys compleat?</l>
+               <l>But there's a ſpiteful <hi>Daemon</hi> haunts my reſt,</l>
+               <l>Which in my greateſt ſweets ſtill mingles gall,</l>
+               <l>And makes ev'n Nectar poyſon to my taſte.</l>
+            </sp>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>Curſe on his pleading honour ſay I too,</l>
+               <l>It breaks my well wrought meaſures, all my Arts,</l>
+               <l>And when by ſtudied politiques I've won</l>
+               <l>A Crown, his aery notions idely throw</l>
+               <l>The jewel from him.</l>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>———Had curs'd <hi>Gualata</hi> dy'd,</l>
+               <l>I needed not have feign'd that lye, with which</l>
+               <l>I would delude <hi>Zaraida's</hi> heart, flatter'd</l>
+               <l>My love with hopes, that ſhe deſpairing ere</l>
+               <l>To ſee him more, might caſt her ey's with pity down</l>
+               <l>On me; 'tis true my heart, unus'd to ſhifts,</l>
+               <l>Started within me at the baſe deſign,</l>
+               <l>My Monarch Soul, diſdain'd th'unworthy trick,</l>
+               <l>But love prevail'd, and I by Proxy told</l>
+               <l>The Lye, which my own tongue refus'd; tell me</l>
+               <l>How did <hi>Zaraida</hi> take the news you bore?</l>
+            </sp>
+            <sp>
+               <speaker>Daf.</speaker>
+               <l>I found her in a thoughtful poſture lay'd,</l>
+               <l>Where nothing that but look'd like joy appear'd,</l>
+               <l>She liſt'ned carefully to th' tale I told,</l>
+               <pb n="5" facs="tcp:95497:9"/>
+               <l>And ever as I mention'd <hi>Barnagaſſo,</hi> dropt,</l>
+               <l>A Sigh, let fall a tear, which were he dead,</l>
+               <l>Might bribe the Gods to give him back again;</l>
+               <l>With doubtful anſwers her fond hopes, I fed,</l>
+               <l>Till wearied with uncertainty, ſhe begg'd me give</l>
+               <l>The blow, as Fate had ſent it her;</l>
+               <l>But when I feign'd the ſtory of his death,</l>
+               <l>I us'd ſuch apt expreſſions, to deceive</l>
+               <l>Her faith, that ſhe diſſolv d in tears, retir'd,</l>
+               <l>And told me, they were ſo intirely one,</l>
+               <l>She could not long be after him.</l>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>Some tribute ſhe ſhould pay his memory,</l>
+               <l>She lov'd him not at once, nor can at once</l>
+               <l>Forget the am'rous play thing: but her pride</l>
+               <l>Will ſoon o'recome her grief, ſhe ll think on me,</l>
+               <l>And rather chooſe a Sceptre, than a Grave.</l>
+            </sp>
+            <sp>
+               <speaker>Daf.</speaker>
+               <l>Much I fear it! her love's too reſolute.</l>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>Your Son, <hi>Zanhaga,</hi> is the fitteſt youth</l>
+               <l>For Court intrigues, ſo innocent his face,</l>
+               <l>None could ſuſpect a Serpent in ſuch fruit,</l>
+               <l>Then he's ſo faithful to his Maſter's truſt.</l>
+               <l>That I'll employ him once more in a ſecret.</l>
+            </sp>
+            <sp>
+               <speaker>Daf.</speaker>
+               <l>'Tis ſtrange he thus ſhould praiſe my innocence.</l>
+               <l>Yet teach me to be falſe, in Childhood too.</l>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>He ſhall to <hi>Gualata</hi> the ſame ſtory tell,</l>
+               <l>With which he firſt abus'd. <hi>Zaraida's</hi> ears?</l>
+               <l>Who knows what his deſpair may urge him to?</l>
+            </sp>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>Oh 'tis a brave deſign! purſue it home,</l>
+               <l>For I ſhall reap the fruits of all your toil.
+<stage>[Aſide.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Daf.</speaker>
+               <l>How ſoon vice creeps in each unguarded breaſt?</l>
+               <l>'Twas his commands that made me Villian firſt,</l>
+               <l>Now for my ſelf I'm tempted to be one,</l>
+               <l>If <hi>Barnag<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſo</hi> dye, my Youth, and Innocence,</l>
+               <l>May win <hi>Zaraida</hi> for my ſelf, not him,</l>
+               <l>Whoſe love ſhe hates as Hell; My Lord, the General. <stage>Seeing him.</stage>
+               </l>
+            </sp>
+            <stage>Warlike Muſick, <hi>enter the</hi> General, <hi>kneels to the</hi> Emperour.</stage>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>Welcome my Soldier to thy Monarchs arms,</l>
+               <l>Thou faithful Prop to my declining Throne,</l>
+               <l>My grateful blood, ſo near a kin to yours,</l>
+               <pb n="6" facs="tcp:95497:10"/>
+               <l>Leaps, and is fir'd at every kind embrace,</l>
+               <l>Eager to force its banks, as who ſhould ſay,</l>
+               <l>Let our divided Streams in the fame channel run.</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>Such gratitude, were I again to fight,</l>
+               <l>Would doubly edge my Sword, new vigour give</l>
+               <l>To e'ry ſtroke, my Weapons animate</l>
+               <l>And ſure to conquer <hi>Barnagaſſo,</hi> I</l>
+               <l>Should need it all.</l>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>You ſpeak of this <hi>Gualata,</hi> as indeed a Man.</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>Or rather God, Oh had you ſeen him, when</l>
+               <l>Adorn'd with plumes, fit for the royal ſports</l>
+               <l>Of War, he led his willing Squadrons on,</l>
+               <l>So gracefully in order rang'd his Troops,</l>
+               <l>His beauty and his Sword were Rivals grown,</l>
+               <l>And both were deep imbrued in humane gore,</l>
+               <l>Oft on thoſe heaps which he himſelf had made,</l>
+               <l>He'd wiſhing gaze to find the hotteſt work,</l>
+               <l>And then like Lightening flew, to ſhare the ſport:</l>
+               <l>His men, as each were wrong'd with him, ſpurr'd on,</l>
+               <l>And hop'd a noble harveſt from this Sun,</l>
+               <l>While he, as he diſdain'd he were not Gyant born,</l>
+               <l>Mow'd all around, and made a pile of dead,</l>
+               <l>On which he mounting view'd the murd'ring game;</l>
+               <l>Thus the defects of Nature he ſupply'd:</l>
+               <l>But Fortune—</l>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>——Ceaſe your praiſe harangue no more.</l>
+               <l>But let me ſee this wonder of a Man.</l>
+               <stage>
+                  <hi>Enter, lead in by the General,</hi> Barnagaſſo, <hi>he looks haughtily at the</hi> Emperour.</stage>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>How great he looks! he braves me in his chains!</l>
+               <l>Were he encircled round with flatt'ring crowds,</l>
+               <l>VVhat could he more? Can miſery ſo glorious be?</l>
+               <l>VVhat ſhall I do to bend his haughty Soul?
+<stage>[Aſide.</stage>
+               </l>
+               <l>My Reſolutions ſicken at this ſight,</l>
+               <l>At e'ry look my weaker genius ſhrinks,</l>
+               <l>I muſt be gone; <hi>Zanhaga;</hi> follow me.
+<stage>
+                     <hi>Exit. cum</hi> Zan.</stage>
+               </l>
+            </sp>
+            <pb n="7" facs="tcp:95497:10"/>
+            <stage>Manent, Barnagaſſo, <hi>the</hi> General, Dafila, <hi>&amp;c.</hi>
+            </stage>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Is that your <hi>Emperour?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>He is; the darling Subſtitute of Heaven.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Then Gods may be deceiv'd as well as men,</l>
+               <l>VVhat is he mute, to awe the common rout</l>
+               <l>To a miſtaken reverence of their King,</l>
+               <l>Is he then forc'd</l>
+               <l>To cheat his People to obey? I pity him.</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>I know not what could call him hence ſo ſoon,</l>
+               <l>But Monarchs motions are above our reach.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>How he betray'd his fear, when in the midſt</l>
+               <l>Of peace, not dareing to proclaim a war,</l>
+               <l>He baſely ſtole my love? he can't repent,</l>
+               <l>A Coward ne're can be an honeſt Man.</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>He can't indeed; but <hi>Jamoans</hi> brave, he ſcorns</l>
+               <l>To owe his ſafety to theſe Chains, they ſpeak</l>
+               <l>Too much a Monarchs fear:
+<stage>[<g ref="char:V">Ʋ</g>nbinding him.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>A Man to Empire born, bred up to all</l>
+               <l>That could endow a Royal Breaſt, yet ſtoop</l>
+               <l>So low as Treachery; my honeſt heart's</l>
+               <l>Unwilling to believ't, and yet, when I</l>
+               <l>Behold my tender, charming Wife, from my</l>
+               <l>Soft boſom torn, were he yet more than King,</l>
+               <l>Were he a God, yet he is baſe as Hell:</l>
+               <l>You've often mourn'd my fate, have pity'd me,
+<stage>
+                     <hi>[To the</hi> General.</stage>
+               </l>
+               <l>Could you not bleſs me with a ſight of her I love?</l>
+               <l>Methinks I'd not forego the World, till I</l>
+               <l>Had ta'en my leave of that Divinity,</l>
+               <l>Say, can your rigid honour grant me this?</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>Diſpair not Sir of love, or liberty,</l>
+               <l>The King, tho' he indulges ev'ry vice,</l>
+               <l>In loath'd debauches reaſon quite enervated,</l>
+               <l>And in looſe Riots has unmann'd his Soul,</l>
+               <l>Yet there are hours, when honour may be heard,</l>
+               <l>Such Eloquence can never plead in vain;</l>
+               <l>Believe me Sir I'll be your faithful Friend.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Oh! I believe and know thee honeſt, but</l>
+               <l>The King, the curſed King enjoys my Love,</l>
+               <pb n="8" facs="tcp:95497:11"/>
+               <l>He graſps her in his arms, inſatiate Goat!</l>
+               <l>Ev'n now! now! whilſt I wiſhing ſtand, he gluts;</l>
+               <l>Perhaps, oh! damn th'intruding thought! h'as forc'd</l>
+               <l>Her to his bed; lead me, Friend, lead me now,</l>
+               <l>This hour's the beſt, ſhew me where Hell and Heavn's</l>
+               <l>So near, they touch, I'll ruſh between, and like</l>
+               <l>A Tygreſs ſeize my robbing prey, tear out</l>
+               <l>His heart, but he has none; Oh! miſery!</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>Compoſe your ſelf, truſt me the danger's leſs</l>
+               <l>Than you have form'd it; to me he has own'd,</l>
+               <l>That when refus'd, he has deſign'd to force;</l>
+               <l>Some ſecret pow'r has chill'd his hot deſires,</l>
+               <l>Nature her ſelf, as with its Extaſie</l>
+               <l>Surcharg'd, deny'd Compliance to his Will.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Oh <hi>Zaraida!</hi> the Pow'r that ſent thee here,</l>
+               <l>Will preſerve thee, there all my hopes are plac'd.</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>Reſt there ſecure, I have a thouſand doubts</l>
+               <l>To be reſolv'd, about this fair one's Birth;</l>
+               <l>Inform me, if ſhe</l>
+               <l>Be old <hi>Senega's</hi> Daughter, ſay what Arts</l>
+               <l>He us'd, to make her ſo Divinely fair.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Oh! I will tell thee all, with the ſame joy</l>
+               <l>That I beheld her firſt, Will I repeat</l>
+               <l>The pleaſing tale—My dying Father left</l>
+               <l>Me an Infant to my Uncles care, he took</l>
+               <l>Me to his Court, where faithful Tutors did</l>
+               <l>Inſtruct my Youth; one day we walk'd abroad,</l>
+               <l>As 'twas their cuſtom to divert my Mind,</l>
+               <l>And their harſh Precepts ſweeten with delights;</l>
+               <l>There as I wanton'd near the bounding Seas,</l>
+               <l>Where <hi>Africk</hi> is no more, I ſaw, ſtay! let</l>
+               <l>Me form the glorious Pageant! Now! it comes!</l>
+               <l>Like a young Prophet in's firſt dream of bliſs,</l>
+               <l>I feel the inſpiring God my fancy move;</l>
+               <l>And my returning thoughts croud to inform my Tongue.</l>
+            </sp>
+            <sp>
+               <speaker>Daf.</speaker>
+               <l>Such joy your words your air expreſs methinks</l>
+               <l>I ſee this Sea-born Goddeſs mount the Waves.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>The floating thing draws near rapt with the ſight,</l>
+               <l>I plunge into the Flood, ſpite of my Guards,</l>
+               <l>And uſe my tender Arms as Nature taught;</l>
+               <pb n="9" facs="tcp:95497:11"/>
+               <l>And now I reach the meeting Bark, I ſee the fair,</l>
+               <l>Rock'd by the gentle Waves afleep ſhe lay,</l>
+               <l>A thouſand graces bleſt the ſmiling Babe,</l>
+               <l>Officious Loves about her Beauties play'd,</l>
+               <l>Which ſhoot themſelves at once into my Breaſt:</l>
+               <l>And now I take her in my eager arms,</l>
+               <l>Like a young God I waft this Goddeſs o're,</l>
+               <l>So light was Heavn' to <hi>Barnagaſſo</hi>'s Arms!</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>Were there no Spirits to attend this Saint?</l>
+               <l>Did Heav'n this Paradice ungarded leave?</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Two Men there were, they dyed; the Babe was lov'd,</l>
+               <l>And bred by good <hi>Senega,</hi> as his Child,</l>
+               <l>For he had none. I was her Companion,</l>
+               <l>In harmleſs ſports we often ſpent the day.</l>
+               <l>Till we had play'd each other into Love,</l>
+               <l>He bleſt this flame; at laſt I Marry'd her;</l>
+               <l>Yes in the face of Heav'n I Marry'd her:</l>
+               <l>A joy too great to laſt! For now! curs'd brood!</l>
+               <l>My Subjects grown Rebellious, forc'd me leave</l>
+               <l>This fair, She all joy was coming to my Arms,</l>
+               <l>When curs'd <hi>Tombu!</hi> but I've done, the reſt you know;</l>
+               <l>Tears muſt have way ſince ſhe is mine no more.
+<stage>[Weeps.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Daf.</speaker>
+               <l>Now is the time t'obey our Emperour,</l>
+               <l>Sure Love and Duty can excuſe one crime.
+<stage>[Aſide weeps:</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>See the poor Youth at my misfortune weeps!</l>
+            </sp>
+            <sp>
+               <speaker>Daf.</speaker>
+               <l>Who will not weep, that knows <hi>Zaraida</hi>'s dead?</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Dead! 'tis impoſſible; By Heavns! 'tis falſe,</l>
+               <l>Her Father Sun would be obſcur'd by grief,</l>
+               <l>But why ſhould he? Oh no, he'll ſhine for joy</l>
+               <l>That ſhe his Emanation is return'd.</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>Thou tend'reſt fair! That heart indeed is</l>
+               <l>Hard, that cannot weep ev'n Blood, for thee!</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>But ſay, for now I can hear any thing;</l>
+               <l>Inform my Soul, how did that fair one dye?</l>
+            </sp>
+            <sp>
+               <speaker>Daf.</speaker>
+               <l>Long had our Emperour ſollicited in vain,</l>
+               <l>For joys, which you alone were to Poſſeſs,</l>
+               <l>Till wearied with delay, and hopleſs e're</l>
+               <l>To work her to comply, he lay'd aſide</l>
+               <l>His Arts, and the bold Raviſher appear'd,</l>
+               <l>Cloak'd with the veil of Love no more; reſolv'd</l>
+               <pb n="10" facs="tcp:95497:12"/>
+               <l>T'enjoy by force, what he could never win;</l>
+               <l>But the chaſt Maid ſnatch'd from his Guards a Sword,</l>
+               <l>And rather choſe to dye, than live a Slave to Luſt;</l>
+               <l>Who can forbear to weep at this?</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Yes I will weep, but fruitleſs tears no more,</l>
+               <l>Large drops of liquid flame my Ey's ſhall pour,</l>
+               <l>The ſcalding deluge ſhall parch up my Skin,</l>
+               <l>As this conſumes without, deſpair ſhall gnaw within;</l>
+               <l>But I muſt yet one act of juſtice do,</l>
+               <l>Rid at one ſtroke, the World, and me, of woe;</l>
+               <l>By me this luſtful Royal Beaſt ſhall dye,</l>
+               <l>I'll plunge his Soul in endleſs Miſery,</l>
+               <l>That done, I'll bask me in ſome open Vale,</l>
+               <l>And let her Sun my Vapour Soul exhale,</l>
+               <l>Where with <hi>Zaraida</hi> I ſhall happy Reign,</l>
+               <l>In bliſs refin'd, in Pleaſure free from pain;</l>
+               <l>We'll live Divinely on our Am'rous fare,</l>
+               <l>And quite forget we ever Mortals were.
+<stage>[Exeunt.</stage>
+               </l>
+            </sp>
+            <trailer>Finis Actus Primi.</trailer>
+         </div>
+         <div type="act_and_scene">
+            <head>ACT II. SCENE I.</head>
+            <stage>
+               <hi>A Pleaſant</hi> Grove, <hi>at the farther end</hi> Zaraida <hi>is diſcover'd on a Couch, ſhe riſes and comes forward.</hi>
+            </stage>
+            <sp>
+               <speaker>Zara.</speaker>
+               <l>WHy ſhould I Weep? Can Tears call back his Soul?</l>
+               <l>Or force mine out to him? In vain I grieve.</l>
+               <l>Where is thy Body ſmooth as Ebony,</l>
+               <l>And ſofter than the tender'ſt yielding Virgins skins?</l>
+               <l>Thy Limbs are undiſtinguiſh'd torn; thy heart,</l>
+               <l>Oh that they'd pierc'd thee there! forgive my Wiſh,</l>
+               <l>That I too might have Dy'd! no Difference now</l>
+               <l>Between the Monarch and the Slave? Yes this,</l>
+               <l>The Pile confeſs'd thy Worth, and groan'd beneath thy weight;</l>
+               <l>The Flame, thy Royal Enſign, ſep'rate burn'd;</l>
+               <l>Nor mix'd its purer Blaze with common ſtreams;</l>
+               <l>But proud of t's God like Load, pierc'd through the expanded Air:</l>
+               <pb n="11" facs="tcp:95497:12"/>
+               <l>Thou Brighteſt Saint, now uſe thy Muſick Speech,</l>
+               <l>Intreat my Father <hi>Sun</hi> to take me hence;</l>
+               <l>While I joyn with thee in ſuch Airs Divine,</l>
+               <l>As never fail'd to move the liſtning God.</l>
+            </sp>
+            <stage>SONG <hi>here, which ended, Enter</hi> Dafila.</stage>
+            <l>A Meſſenger from Hell, in ſtead of Heaven!</l>
+            <sp>
+               <speaker>Daf.</speaker>
+               <l>Sure I am Monſtrous, that you ſtart aſide,</l>
+               <l>And leave your Angel-ſtrains when I Appear.</l>
+               <l>Your Silence tells me, I've been rude, diſturb'd</l>
+               <l>Your pious Offerings to an Earthly Saint.</l>
+               <l>'Tis true, my Ears were bleſt; but Heavn', till I</l>
+               <l>Had ſeen you too, imperfect was.</l>
+            </sp>
+            <sp>
+               <speaker>Za.</speaker>
+               <l>'Tis baſe t'inſult o're my Religious Grief,</l>
+               <l>When Gods Afflict, Men ſhould not add their ſcorn</l>
+            </sp>
+            <sp>
+               <speaker>Daf.</speaker>
+               <l>Is it Inſulting, when the Pious Votary</l>
+               <l>In hallow'd Cenſers ſerves Devotion up?</l>
+               <l>If this be Scorn, then I confeſs I'm baſe
+<stage>[Kneels.</stage>
+               </l>
+               <l>For Knees, and Tears, ſhall foree your pity down.</l>
+            </sp>
+            <sp>
+               <speaker>Za.</speaker>
+               <l>In vain, fond Youth, you plead the cauſe of Vice;</l>
+               <l>Such Vertue ſhould not kneel for ſuch a King.</l>
+            </sp>
+            <sp>
+               <speaker>Da.</speaker>
+               <l>Oh hear me! For my ſelf I beg, not him,</l>
+               <l>Won't you reward that Innocence you praiſe?
+<stage>[She avoids him.</stage>
+               </l>
+               <l>Why do you fly my Virgin-Touch? the Flame</l>
+               <l>Burns not ſo pure in Temples, as my Breaſt,</l>
+               <l>And like that too mine to its Heaven Aſpires;</l>
+               <l>Oh ſtay, Coy Fair, yet ſtay, and hear me ſpeak!</l>
+               <l>Ev'n Heavn' will hear, tho it refuſe to grant:</l>
+               <l>Perhaps you think me of Ignoble Stock,</l>
+               <l>And, on that Errour, ground your Scorn; my Streams</l>
+               <l>From Royal Fountains flow, my Veins are rich,</l>
+               <l>And ſwell with pure, unmixt, Caeleſtial Blood.</l>
+            </sp>
+            <sp>
+               <speaker>Za.</speaker>
+               <l>I ſtay too long, my Widdow'd ears and heart,</l>
+               <l>Muſt never more, or hear, or think of Love. <stage>She ſtrives to get looſe, he holds her.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Da.</speaker>
+               <l>'Tis true, I've no Crowns to lay before you,</l>
+               <l>Nor Thouſand Slaves to wait my leaſt Command;</l>
+               <l>Yet I've a Sword ſhall hew you out a Throne,</l>
+               <l>Or Altar rather, for ſo fair a Saint;</l>
+               <l>My Brother General too will lend his Arm</l>
+               <pb n="12" facs="tcp:95497:13"/>
+               <l>Inur'd to Victory—</l>
+            </sp>
+            <sp>
+               <speaker>Za.</speaker>
+               <l>Were you in Love</l>
+               <l>You'd ſtrive to pleaſe, and not oppoſe my Will;</l>
+            </sp>
+            <sp>
+               <speaker>Daf.</speaker>
+               <l>Can nothing move your cruel Breſt? yet ſtay,</l>
+               <l>I've yet a Charm to lure your Heart, give me</l>
+               <l>Thoſe Favours you can juſtly, grant,</l>
+               <l>And while you ſing ſoft Airs to <hi>Barnagaſſo</hi>'s praiſe,</l>
+               <l>I ll ecchoe nothing back but <hi>Barnagaſſo</hi>'s Name;</l>
+               <l>No ſound ſhall reach your Ears, but <hi>Barnagaſſo.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Za.</speaker>
+               <l>Riſe artful Youth, thou cunning Innocence,</l>
+               <l>Thou'ſt ſtroke the darling note, my Heart revives,</l>
+               <l>Oh there's ſuch Muſick in that Name! enough</l>
+               <l>To bend me from my ſtiff reſerve; yes now</l>
+               <l>I'll think, I'll hear, nay talk of Love again;</l>
+               <l>But of a loſt one! there my Woe returns!</l>
+               <l>I've a Requeſt, which you muſt not deny.
+<stage>[Pauſes.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Da.</speaker>
+               <l>Speak, for I can deny you nothing: ſay</l>
+               <l>Is't in my power? already I am Wing'd,</l>
+               <l>Swifter than Light'ning, to perform your Will.</l>
+               <l>Has any Villain wrong'd your Honour? ſay,</l>
+               <l>Tho' 'twere our Emperour himſelf, he dyes:</l>
+               <l>This little Arm, guided by Avenging Heav'n,</l>
+               <l>Shall Wonders do, to expiate, my former Guilt.</l>
+            </sp>
+            <sp>
+               <speaker>Za.</speaker>
+               <l>'Twill try your Love indeed, 'mongſt all the Slaves;</l>
+               <l>Is there not one that knew my Husband well?</l>
+               <l>One, in whoſe Breaſt, he could repoſe his Griefs?</l>
+               <l>Could you find ſuch a one, I ſhould be bleſt.</l>
+            </sp>
+            <sp>
+               <speaker>Da.</speaker>
+               <lg type="aside">
+                  <stage>Aſide.</stage>
+                  <l>Oh I could pleaſe her beyond meaſure now!</l>
+                  <l>What hinders then? My Duty? that I've loſt</l>
+                  <l>In Pleading for my ſelf: Can I pretend</l>
+                  <l>To Love, yet harbour in my Breaſt a Foe</l>
+                  <l>To that ſoft Paſſion? No: ſhe ſhall be ſerv'd:</l>
+               </lg>
+               <l>Yes, there is ſuch a one, ſo dear he was</l>
+               <l>To your Dead Lord, he knew each Thought, each Sigh:</l>
+               <l>Not <hi>Barnagaſſo</hi> to himſelf more Conſcious was;</l>
+               <l>Like a True Friend, he waited him to Death,</l>
+               <l>And did the laſt Kind Offices perform.</l>
+            </sp>
+            <sp>
+               <speaker>Za.</speaker>
+               <l>May I not ſee him? Oh he'll ſooth my Grief</l>
+               <l>With Mournful Tales of <hi>Barnagaſſo</hi>'s Death! Tell me</l>
+               <l>How oft he call'd upon <hi>Zaraida;</hi> how,</l>
+               <pb n="13" facs="tcp:95497:13"/>
+               <l>VVhen he lay Gaſping, in his lateſt Breath</l>
+               <l>
+                  <hi>Zaraida</hi> preſt; you ſhan't deny me this.</l>
+            </sp>
+            <sp>
+               <speaker>Daf.</speaker>
+               <lg type="aside">
+                  <stage>[Aſide.</stage>
+                  <l>It ſhall be ſo; the Invention pleaſes me;</l>
+                  <l>Surprizes give a reliſh to the Bliſs;</l>
+                  <l>Duty be gone, Love in my Maſter now;</l>
+               </lg>
+               <l>Expect a while, and doubt not but I'll bring</l>
+               <l>The Man you moſt deſire.
+<stage>[Exit.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Za.</speaker>
+               <l>Him whom I moſt deſire indeed; for, ſince</l>
+               <l>My Husband's Dead, Where can I lull my Cares</l>
+               <l>Aſleep, but in that Breaſt himſelf did truſt?</l>
+               <l>Ah <hi>Barnagaſſo!</hi> that I'd dy'd for thee!</l>
+               <l>And yet I dare not, muſt not wiſh ev'n that;</l>
+               <l>For were it ſo, yet we ſhould have parted;</l>
+               <l>And thats the only Hell I'd ſhun. <stage>[She retires aſide.</stage>
+               </l>
+            </sp>
+            <stage>
+               <hi>Enter</hi> Dafila <hi>with</hi> Barnagaſſo, <hi>at one end of the Stage.</hi>
+            </stage>
+            <sp>
+               <speaker>Daf.</speaker>
+               <l>Divert your Grief in theſe Coole Shades, you'll find</l>
+               <l>Your little Jaylor's not Tyrannical.</l>
+               <l>My Duty calls me hence. <hi>Bar.</hi> Kind Youth farewell.
+<stage>Goes behind the Scene.</stage>
+               </l>
+               <l>All are not Monſters in this <hi>Affrick</hi> Court.</l>
+               <stage>Barnagaſſo <hi>Coming Forward.</hi>
+               </stage>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Oh <hi>Zaraida!</hi> Wer't thou as happy, as</l>
+               <l>I am wretched, I ſhould be happy too.</l>
+               <l>Ha! Is it poſſible! Or do I Dream?
+<stage>[Seeing her.</stage>
+               </l>
+               <l>And ſpeak but what I wiſh? Thou Brighteſt Viſion, that</l>
+               <l>Aſſum'ſt the Lovely'ſt Shape on Earth, or Heav'n,</l>
+               <l>Speak, and in rev'rence to the form you bear,</l>
+               <l>Thus bending to the Earth, my open Ears
+<stage>[Kneels</stage>
+               </l>
+               <l>Shall ſuck with greedy thirſt the welcome Sounds.</l>
+            </sp>
+            <sp>
+               <speaker>Za.</speaker>
+               <l>It muſt be he! yes he himſelf! no Ghoſt!</l>
+               <l>What ſtays me then to undeceive us both?</l>
+               <l>Riſe, <hi>Barnagaſſo,</hi> riſe, I am your <hi>Zaraida,</hi>
+               </l>
+               <l>Take me, and ſatisfie your ſelf I'm ſhe,
+<stage>Runs into his Arms.</stage>
+               </l>
+               <l>Your conſtant, fondeſt Wife.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Oh raptures too Divine!</l>
+               <l>The ſudden joy o're pow'rs my Spirits depreſs'd,</l>
+               <pb n="14" facs="tcp:95497:14"/>
+               <l>With the weight of whole Heaven, but thy kind warmth
+<stage>Imbra<g ref="char:EOLhyphen"/>ces her.</stage>
+               </l>
+               <l>Calls back my retiring Blood, thy Kiſſes breath</l>
+               <l>A Soul into thy Image, it enlivens</l>
+               <l>In my fond heart, and almoſt talks of Love:</l>
+               <l>Oh <hi>Zaraida,</hi> ſo cloſe I ll preſs thee in theſe Arms,</l>
+               <l>All that behold, ſhall think I grew to thee!</l>
+            </sp>
+            <sp>
+               <speaker>Za.</speaker>
+               <l>Cloſer, yet cloſer to my Breaſt my Lord!</l>
+               <l>Each ſenſe confeſſes you, my Arms that oft</l>
+               <l>In am'rous twines have lock d my Husband faſt,</l>
+               <l>Now fall of courſe into their wonted place.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Oh judge not of my paſſion by my VVords!</l>
+               <l>Thoſe ſounds are yet unknown that can expreſs</l>
+               <l>My Bliſs: My ſilent Exſtaſies declare</l>
+               <l>My Soul wrap't far beyond Tumultuous Joys;</l>
+               <l>Oh we'll repeat the life of Love, and all</l>
+               <l>Our happineſs ſhall center in our ſelves.</l>
+               <l>But I am yet in th'dark what juggle has</l>
+               <l>Been play'd, and to what end they feign'd our Deaths.</l>
+            </sp>
+            <sp>
+               <speaker>Daf.</speaker>
+               <stage>Entering.</stage>
+               <l>That Myſtery my ſelf alone can clear,</l>
+               <l>And firſt thus kneeling, I for Pardon ſue</l>
+               <l>To this offended Heav'n; 'twas by the Kings command</l>
+               <l>I to each other feign'd your Deaths, he hop'd,</l>
+               <l>That diff<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rent Paſſions ruleing in your Breaſts,</l>
+               <l>Deſpair in yours, and Female Pride in hers,</l>
+               <l>Something might be effected to his wiſh;</l>
+               <l>VVhat caus'd me to unravle his deſigns,</l>
+               <l>And backward tread my ſteps, this Lady knows;</l>
+               <l>She ſure will Pardon Crimes her ſelf has caus'd.</l>
+            </sp>
+            <sp>
+               <speaker>Za.</speaker>
+               <l>And can reward the Virtues too, take all</l>
+               <l>That gratitude and beſt eſteem can give.
+<stage>[Takes him up.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Triumph! Triumph my Soul! let thy</l>
+               <l>Vaſt joy reach the laſt borders of the World,</l>
+               <l>From either ſide with double force rebound,</l>
+               <l>And meeting, make a Whirlpool with your Streams,</l>
+               <l>Which may ſuck in each heart, to joy with me;</l>
+               <l>Yet further, if it be in Nature further go;</l>
+               <l>If not, inſpire ev'n Nothing with my Joy.</l>
+               <l>Let Nothing be endu'd with Apprehenſion vaſt,</l>
+               <l>To rouze it's new form'd Soul at my Alarm,</l>
+               <l>Shake off its drowſie fit, and help to puſh</l>
+               <pb n="15" facs="tcp:95497:14"/>
+               <l>The rolling Heaven on: What! what can be</l>
+               <l>Joy enough when my <hi>Zaraida</hi> Lives! Ring</l>
+               <l>Your Eternal Clangours for the great News,</l>
+               <l>The Goddeſs Lives! whom we Blaſphem'd with Death,</l>
+               <l>And gen'rous honour flouriſhes in you.
+<stage>[Embraceing her paſſionatly and him.</stage>
+               </l>
+            </sp>
+            <stage>Enter to them the <hi>Emperour</hi> talking to <hi>Zanhaga.</hi>
+            </stage>
+            <sp>
+               <speaker>Em.</speaker>
+               <l>Now for my Plot, if ſhe be VVoman, it</l>
+               <l>Succeeds. Death to my hopes! he here!
+<stage>[Seeing Bar.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Da.</speaker>
+               <l>The Emperour! Then I am loſt indeed!</l>
+            </sp>
+            <sp>
+               <speaker>Em.</speaker>
+               <l>Dye Traytour, early baſe, nor ſhall my Blood
+<stage>[Stabs Daf.</stage>
+               </l>
+               <l>That trickles in thy Veins, excuſe this Crime,</l>
+               <l>Ev'n that I'll Sacrifice to Love, I'll have</l>
+               <l>Thy Bowels ript, ſearch if thou haſt a Heart,</l>
+               <l>Or thou'rt no Victim for this Deity.</l>
+            </sp>
+            <sp>
+               <speaker>Da.</speaker>
+               <l>Oh you will find <hi>Zaraida</hi> there! her looks</l>
+               <l>Will awe your Sacrilegious Hands, yet take</l>
+               <l>Take cruel King my Heart,</l>
+               <l>The only part of her you e're can have.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Oh for a Sword to end this Tyrants Life!</l>
+               <l>Revenge at once my Friend, and Right my Love!</l>
+               <l>Fate I accept thy gift, and thank thee thus,</l>
+               <stage>
+                  <hi>Snatches Dafila</hi>'s <hi>Sword, and runs at the Emp. but is hin<g ref="char:EOLhyphen"/>dered by the Guard.</hi>
+               </stage>
+               <l>Oh feeble Arm! unfit thy Maſters Soul!</l>
+               <l>Or all his Guards could not have hind'red thee,</l>
+               <l>Yet I will watch a Time, when, tho' unarm'd,</l>
+               <l>I'll ſeize the Blood hounds Throat, again prevented!</l>
+               <l>Gods! I ſubmit!</l>
+            </sp>
+            <sp>
+               <speaker>Em.</speaker>
+               <l>Secure this Mad-man;</l>
+               <l>Ev'n you his Father muſt confeſs, his Crime</l>
+               <l>Deſerv'd the Blow I gave.</l>
+            </sp>
+            <sp>
+               <speaker>Zan</speaker>
+               <l>Poor Boy, his fault</l>
+               <l>Indeed was great, and yet in one ſo young—
+<stage>[Aſide.</stage>
+               </l>
+               <l>But 'tis not fit my Frowns diſcloſe my thoughts,</l>
+               <l>Till time afford a Seaſon for Revenge.
+<stage>[To Zar.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>Sweet Youth! how often haſt thou urg'd his ſuit,</l>
+               <l>With Pray'rs as earneſt, as moſt Pious Souls</l>
+               <l>To their expected Heaven give, tho I,</l>
+               <l>Thy Maſter loath'd, yet thy Devotion was,</l>
+               <pb n="16" facs="tcp:95497:15"/>
+               <l>So great, that were my Breaſt but capable</l>
+               <l>Of any Love, but what <hi>Gualata</hi> gave,</l>
+               <l>Thou, only thou could'ſt enter there. Ingrate!</l>
+               <l>Find now ſome way to ſatisfie his Ghoſt.</l>
+            </sp>
+            <sp>
+               <speaker>Em.</speaker>
+               <l>Conſent but to be mine, and he ſhall live,</l>
+               <l>I'll force unravel'd Nature to diſcloſe</l>
+               <l>Some wondrous ſecret, to cement his Wounds.</l>
+            </sp>
+            <sp>
+               <speaker>Da.</speaker>
+               <l>Too late thou vaunt'ſt thy Pow'r, truſt me, tho I.</l>
+               <l>Deſerv'd my Fate, 'twas baſe in you to give it me:</l>
+               <l>Oh! Bear me to that Heavn' of weeping Chryſtal!</l>
+               <l>That Heav'n! which my fond soul would never leave,</l>
+               <l>But a leſs lov'd one calls me hence farewel!<stage>[Dyes.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Em.</speaker>
+               <l>Convey him hence, ſuch objects ſuit not Love,</l>
+               <l>The ruling Paſſion of my Breaſt.
+<stage>Guards carry off Daf.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Ev'n yet raſh King, your may regain your Honour,</l>
+               <l>Reſtore what you've unjuſtly ta'en, this Fair;</l>
+               <l>She is my due, oh<g ref="char:punc">▪</g> I deſerve her not;</l>
+               <l>For where's the Man e're merited Divinity?</l>
+               <l>Yet ſince the Gods have joyn'd our Hearts ſo cloſe,</l>
+               <l>What Pow'r dare part us now! part us! ſaid I?</l>
+               <l>Oh <hi>Zaraida,</hi> while I've a Hand, an Arm,
+<stage>[Embraces her.</stage>
+               </l>
+               <l>Ill never leave thee more! nay, tho my Limbs,</l>
+               <l>By ſome diſaſtrous Chance, were from my Body torn,</l>
+               <l>Yet my bare am'rous Trunk would kindly bend,</l>
+               <l>And make a hold for thee, ſome part of me</l>
+               <l>Would ſoon transform into a Sword, and hew</l>
+               <l>The Monſter down, that durſt divide our Souls.</l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>Teach me my Lord, how to return your love,</l>
+               <l>I've nothing new but Miſery to give!</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Oh thou art always raviſhingly new!
+<stage>[Embraces her.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>How can you hug your Ruin in your Arms?</l>
+               <l>Oh ſhake me, ſhake me off! this Viper off!</l>
+               <l>Give up this Fatal Beauty to Deſpair,</l>
+               <l>Let me not draw your Ruine down with mine.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Ceaſe your harſh Sounds, or I ſhall think you chang<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d,</l>
+               <l>That would be new indeed, new Miſery!</l>
+            </sp>
+            <sp>
+               <speaker>Em.</speaker>
+               <l>My ſmall remains of Pity ſtruggle now,</l>
+               <l>But Love puts in his Claim, and tears my Breaſt;</l>
+               <l>Teach her to yield, or me to Love no more.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>I will ſupport your honour, it ſhall o're look</l>
+               <pb n="17" facs="tcp:95497:15"/>
+               <l>Your Luſt, Gygantick grown, I'll be your Friend,</l>
+               <l>Tho often Injur'd, be what you ſhould be,</l>
+               <l>And I will yet forget 'em all, forget,</l>
+               <l>If poſſible, you ever wrong'd this tender Flow'r.</l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>Nay Love will plead, ſure that can't be deny'd;</l>
+               <l>Hear me, 'tis the firſt time I ever pray'd</l>
+               <l>To you, how often have you begg'd this Boon</l>
+               <l>In vain? deſpiſe it not now it is giv'n;</l>
+               <l>I will not call you Tyrant, Monſter now,</l>
+               <l>No you ſhall be a God, and I'll adore</l>
+               <l>Your Deity, if you will grant my wiſh;</l>
+               <l>I ask not Kingdoms, keep them all, 'tis but</l>
+               <l>
+                  <hi>Gualata</hi>'s Liberty and mine, forbear</l>
+               <l>To ſtop the peaceful Current of our Joys,</l>
+               <l>Permit us wander where our wills ſhall lead,</l>
+               <l>We'll ſeek for ſhelter in ſome Mountains Root,</l>
+               <l>Where Nature, as fore-ſeeing our Diſtreſs,</l>
+               <l>A rev'rend Cave has form'd; there we'll retire,</l>
+               <l>And be ſecurely bleſt with Mutual Love;</l>
+               <l>No Monarch will invade that Throne, no Arms</l>
+               <l>The quiet calm of Sacred Love diſturb,</l>
+               <l>Sure you will grant me this, this, which makes me</l>
+               <l>Richer than Heav'n and not Impoveriſhes you.</l>
+            </sp>
+            <sp>
+               <speaker>Em.</speaker>
+               <l>Truſt me her words ſtrike through my very Soul,</l>
+               <l>My feeble honour, reinforc'd by theſe</l>
+               <l>All conq'ring helps aſſays to lead the way;</l>
+               <l>Now all the fogs of lewd Debauches fly,</l>
+               <l>And ev'ry ſtenching Vapour is exhal'd,</l>
+               <l>Honour alone now ſeems to keep the Field,</l>
+               <l>And I could almoſt give her up, but Love</l>
+               <l>Reſumes my Heart, and drives th' Uſurper thence;</l>
+               <l>The Combat's hot, he fights, and now retreats,</l>
+               <l>Now Strong, now weak, and now Triumphant ſits,</l>
+               <l>Proclaiming with a Tyrants Voice his <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aws;</l>
+               <l>Whilſt humbled Honour, but in whiſpers ſpeaks,</l>
+               <l>Give up <hi>Zaraida,</hi> ha! give what? to whom!</l>
+               <l>
+                  <hi>Zaraida</hi> to the Man I hate as Hell!</l>
+               <l>Forbid it Love! I hear not Honour now,</l>
+               <l>Like drowning Men, this was its laſt effort,</l>
+               <l>To rear its ſinking head above the Floods,</l>
+               <pb n="18" facs="tcp:95497:16"/>
+               <l>And now 'tis loſt for ever! ever gone!</l>
+               <l>No, your Propoſal I retort to you,</l>
+               <l>Take all your Crowns, your Kingdoms, take 'em back,</l>
+               <l>But my <hi>Zaraida</hi> ſhall be mine!</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Hold off bold sacrilegious Wretch! Tempt not</l>
+               <l>Thy Fate, leſt naked as I am, ſome God,</l>
+               <l>Make ev'n theſe hands the Miniſters of Death.</l>
+               <l>Give me a Sword, be you too arm'd for Love;</l>
+               <l>
+                  <hi>Zaraida</hi> ſhall like Vict'ry doubtful hang,</l>
+               <l>And to the Man who moſt deſerves her fall;</l>
+               <l>Oh glorious cauſe! Worthy ſuch Swords as ours;</l>
+               <l>The Day ſeems mark'd by fate for ſuch a War!</l>
+               <l>The expecting Gods to their laſt limits come,</l>
+               <l>Deeply concern'd for Souls ſo like their own;</l>
+               <l>'Twere not good manners to delay the ſport</l>
+               <l>When ſuch ſpectators wait; come bring the Swords,</l>
+               <l>And let the Royal Fight begin.</l>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>'Tis an unequal Game, I ſet my Crown</l>
+               <l>To nought, ſure you forget you're Priſ'ner here,</l>
+               <l>A Bankrupt both in honour, and Eſtate;</l>
+               <l>'Tis not for you who at my Mercy breath,</l>
+               <l>To hope ſo brave a Death as from this Arm;</l>
+               <l>I ſcorn to lift my Sword againſt my Slave.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>If I'm a Slave, you could not make me one.</l>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>Under my Auſpices my Soldiers fought,</l>
+               <l>They ſervilely perform'd what I inſpir'd.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Excuſes ne're are wanting, when the will is gone;</l>
+               <l>Thus Cowards always Reaſon wreſt,</l>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>Were I that thing, what hinder'd me to've forc'd</l>
+               <l>This Lady long e're this, and Murder'd you?</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Becauſe thou art that thing, for tho 'twere baſe,</l>
+               <l>Yet there's a boldneſs in it, thou 'rt a Stranger to.</l>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>The World ſhall find I am not baſe, to Heav'n,</l>
+               <l>Who beſt decides, this cauſe refer, the Prieſt</l>
+               <l>Shall in my Court inquire it's will, while we</l>
+               <l>Expect, to whom juſt Heav'n this Fair will give:</l>
+               <l>Mean time free acceſs I allow to both.</l>
+               <l>
+                  <hi>Zanhaga</hi> bid the Prieſt his Gods prepare.</l>
+               <l>That hint's enough this ſeeming Piety,
+<stage>[Aſide.</stage>
+               </l>
+               <l>Secures their hearts whom pity might miſlead:</l>
+               <pb n="19" facs="tcp:95497:16"/>
+               <l>My General too, who loves this Prince, muſt yield to Heaven. <stage>[Exit</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>If Heav'n be Heav'n, we ſhall be happy yet.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>We will be happy, or in Life, or Death.
+<stage>
+                     <hi>[Exit cum</hi> Zar.</stage>
+               </l>
+            </sp>
+            <sp>
+               <stage>Manet, Zanhaga, Solus.</stage>
+               <l>Yes, he ſhall Solve your Doubts, the Prieſt ſhall give</l>
+               <l>
+                  <hi>Zaraida</hi> to your Arms, but you ſhall n'ere</l>
+               <l>Enjoy that Gift: <hi>Gualata,</hi> and your ſelf</l>
+               <l>Stand in my way: My Son's, my Darling's Death</l>
+               <l>Shan't long be Unreveng'd: True, I was fir'd;</l>
+               <l>By my Ambition, to attempt a Crown before:</l>
+               <l>But now Revenge too eggs me on his blood</l>
+               <l>Shall be the Oyl to whet my blunted hopes:</l>
+               <l>I'll ſoon prepare the Prieſt to ſerve the King.</l>
+               <l>His Parrot-Gods ſhall ſpeak but what I Teach,</l>
+               <l>And my own Thoughts his Pratling <hi>Daemons</hi> Preach.
+<stage>[Exit.</stage>
+               </l>
+            </sp>
+            <trailer>Finis Actus Secundi.</trailer>
+         </div>
+         <div type="act_and_scene">
+            <head>ACT III. SCENE I.</head>
+            <stage>SCENE <hi>the Prieſts Apartment.</hi>
+            </stage>
+            <stage>
+               <hi>Enter the</hi> Emperour.</stage>
+            <sp>
+               <speaker>Em.</speaker>
+               <l>THus far has Love unbounded hurry'd me!</l>
+               <l>The rapid Flood breaks through oppoſing Dams,</l>
+               <l>Bears down each Fence, that dares diſpute its way;</l>
+               <l>All Diſappointments but increaſe its force;</l>
+               <l>Each blow new Vigour gives each fall</l>
+               <l>Infuſes freſh Recruits to ev'ry part,</l>
+               <l>Tenacious of his hold he hugs me cloſe;</l>
+               <l>Whilſt ſmother'd honour ſtruggles but in vain,</l>
+               <l>Shall I be forc'd to mortifie my flame:</l>
+               <l>Becauſe ſome ſervile Prieſts has joyn'd their hands,</l>
+               <pb n="20" facs="tcp:95497:17"/>
+               <l>What tho her folly too unites their hearts,</l>
+               <l>My Prieſt ſhall ſtreight untye this Myſtick Knot,</l>
+               <l>And make ev'n Heav'n repeal its former Act.</l>
+               <l>What ho! within there! <hi>Marabou!</hi> come forth,</l>
+               <l>And eaſe a Monarch's Breaſt.</l>
+            </sp>
+            <stage>
+               <hi>Enter</hi> Prieſt, <hi>Zanhaga,</hi> &amp;c.</stage>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>You have your Cue! be faithful to your Truſt,</l>
+               <l>And your Reward ſhall far exceed deſire.</l>
+            </sp>
+            <sp>
+               <speaker>Em.</speaker>
+               <l>Behold you who the Heavenly ſecret know,</l>
+               <l>Behold me both a Monarch, and a Slave;</l>
+               <l>I to whoſe Nod all <hi>Africa</hi> ſubmit,</l>
+               <l>Can ſtoop to kneel at a weak Womans feet:</l>
+               <l>She, tho' a Captive, ſcorns to look on me,</l>
+               <l>My very Crown's a Bawble in her eyes;</l>
+               <l>Too poor to play with, whilſt the Captive Prince,</l>
+               <l>Tho' robb'd of all his Glories, gluts in Joys,</l>
+               <l>Which but to taſt, my ſelf would be Dethron'd:</l>
+               <l>And I had pluck'd ere this th' unwilling Roſe,</l>
+               <l>But ſome remaining dregs of honour hinder'd me;</l>
+               <l>This is the Plague torments your Monarch's Soul,</l>
+               <l>Now ſee if Hell or Heav'n afford a Cure.</l>
+            </sp>
+            <sp>
+               <stage>Here the Emperour ſits, while the Prieſt begins the <hi>Incantation.</hi>
+               </stage>
+               <l>
+                  <hi>ARiſe ye Fiends of Hell! ariſe;</hi>
+               </l>
+               <l>
+                  <hi>You who for freedom groan,</hi>
+               </l>
+               <l>
+                  <hi>Who long loſt Earth, bemoan;</hi>
+               </l>
+               <l>
+                  <hi>Come, with freſh Objects, feed your eyes;</hi>
+               </l>
+               <l>
+                  <hi>You, who for Sins on Earth, are bound</hi>
+               </l>
+               <l>
+                  <hi>To Swim in Coldeſt, Streams;</hi>
+               </l>
+               <l>
+                  <hi>Still dying, never Dead are found;</hi>
+               </l>
+               <l>
+                  <hi>Come, warm you by my Flames:</hi>
+               </l>
+               <l>
+                  <hi>I'll Chafe you till you'r happy too;</hi>
+               </l>
+               <l>
+                  <hi>I'll Thaw your Blood if it Congeale</hi>
+               </l>
+               <l>
+                  <hi>I'll mend your blue and bleaky hue;</hi>
+               </l>
+               <l>
+                  <hi>Your skin, tho chopp'd, and ſcarr'd I'll heale.</hi>
+               </l>
+               <l>
+                  <hi>The cutting Winds, that Whiſtling blow</hi>
+               </l>
+               <l>
+                  <hi>From dazling Mountains of driv'n Snow,</hi>
+               </l>
+               <l>
+                  <hi>Shall ceaſe their Orders, to obey,</hi>
+               </l>
+               <l>
+                  <hi>If you'll prepare, and come away.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="21" facs="tcp:95497:17"/>Chorus of Prieſts.</speaker>
+               <l>
+                  <hi>Come to our Monarch, give Advice, Ariſe ye Fiends of Hell! ariſe.</hi>
+               </l>
+            </sp>
+            <stage>Four Infernal Spirits Ariſe, all in White, and Sing.</stage>
+            <sp>
+               <l>
+                  <hi>WE come! we come, Great</hi> Marabou!</l>
+               <l>
+                  <hi>We watch thy pleaſing Call;</hi>
+               </l>
+               <l>
+                  <hi>Our ſtiff'ned Joynts are ſupple now,</hi>
+               </l>
+               <l>
+                  <hi>You warm the coldest Hell.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>1ſt. Male Spirit.</speaker>
+               <l>
+                  <hi>If Love disturb this Monarch's Breaſt,</hi>
+               </l>
+               <l>
+                  <hi>'Tis fit he ſhould enjoy</hi>
+               </l>
+               <l>
+                  <hi>What e're can pleaſe th'unruly Gueſt,</hi>
+               </l>
+               <l>
+                  <hi>And force her if ſhe fly.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>1ſt. Female.</speaker>
+               <l>Gualata <hi>Dead, ſhe'll yield of courſe,</hi>
+               </l>
+               <l>
+                  <hi>Dull Lovers we deſpiſe;</hi>
+               </l>
+               <l>
+                  <hi>She but expects the pleaſing force,</hi>
+               </l>
+               <l>
+                  <hi>To give down all her Joys.</hi>
+               </l>
+               <l>
+                  <hi>My Lover was for Piety,</hi>
+               </l>
+               <l>
+                  <hi>Conſcience, and Lov'd wag'd Wars;</hi>
+               </l>
+               <l>
+                  <hi>His coldneſs Damn'd himſelf, and me;</hi>
+               </l>
+               <l>
+                  <hi>Or we had both been Stars.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>2d. Male.</speaker>
+               <l>
+                  <hi>Behold me once a Mortal Wight,</hi>
+               </l>
+               <l>
+                  <hi>In an Old Beldain's Arms;</hi>
+               </l>
+               <l>
+                  <hi>For Love of Gold I drudg'd all Night,</hi>
+               </l>
+               <l>
+                  <hi>And roſe at all Alarms:</hi>
+               </l>
+               <l>
+                  <hi>But yet 'twas cold! 'twas coldly done!</hi>
+               </l>
+               <l>
+                  <hi>Nor did it ought avail;</hi>
+               </l>
+               <l>
+                  <hi>Then force the young, the fair, nor run</hi>
+               </l>
+               <l>
+                  <hi>The Riſque to freeze in Hell.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>2d. Female.</speaker>
+               <l>
+                  <hi>I to an Aged Fool did Charm,</hi>
+               </l>
+               <l>
+                  <hi>Who only hugg'd me cloſe;</hi>
+               </l>
+               <l>
+                  <hi>My Maiden-head in Hell can't warm,</hi>
+               </l>
+               <l>
+                  <hi>Nor Virtue-heat infuſe.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Chorus of Infernals.</speaker>
+               <l>
+                  <hi>Then force the Fair, nor longer crave,</hi>
+               </l>
+               <l>
+                  <hi>But let</hi> Gualata <hi>die:</hi>
+               </l>
+               <l>
+                  <hi>By this your ſelf, and her, you'll ſave,</hi>
+               </l>
+               <l>
+                  <hi>From Winters Miſery.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Chorus of Prieſts and Infernals.</speaker>
+               <l>
+                  <hi>For they who quench'd their am'rous flames,</hi>
+               </l>
+               <l>
+                  <hi>Are Damn'd to Freeze in Coldeſt Streams.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="22" facs="tcp:95497:18"/>
+                  <hi>Priest</hi>
+               </speaker>
+               <stage>SINGS.</stage>
+               <l>
+                  <hi>HEar! you in Heav'ns blue Regions, hear!</hi>
+               </l>
+               <l>
+                  <hi>You who have once been Men;</hi>
+               </l>
+               <l>
+                  <hi>And for your Virtues ſwim in Air,</hi>
+               </l>
+               <l>
+                  <hi>To make my</hi> Phoebus <hi>train.</hi>
+               </l>
+               <l>
+                  <hi>How happy you! warm'd by his Beams,</hi>
+               </l>
+               <l>
+                  <hi>Your Balls of Fire ye Guard;</hi>
+               </l>
+               <l>
+                  <hi>Each Spirit guides his Orb of Flames,</hi>
+               </l>
+               <l>
+                  <hi>Proud of his hot reward.</hi>
+               </l>
+               <l>
+                  <hi>You who've obey'd Almighty Love,</hi>
+               </l>
+               <l>
+                  <hi>Inur'd to Amorous Wars,</hi>
+               </l>
+               <l>
+                  <hi>For which in Flames you wanton rove,</hi>
+               </l>
+               <l>
+                  <hi>Pleas'd with your Subject Stars;</hi>
+               </l>
+               <l>
+                  <hi>You who prefix each Mortals Doom,</hi>
+               </l>
+               <l>
+                  <hi>And know each Miſcreants Fate:</hi>
+               </l>
+               <l>
+                  <hi>Say, will ye cut the Pris'ners Loom,</hi>
+               </l>
+               <l>
+                  <hi>Or give a longer Da'e?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Chorus of Prieſts.</speaker>
+               <l>
+                  <hi>Come, come relate,</hi>
+               </l>
+               <l>
+                  <hi>The Captives Fate,</hi>
+               </l>
+               <l>
+                  <hi>Or Life, or Death,</hi>
+               </l>
+               <l>
+                  <hi>Bring in a Breath;</hi>
+               </l>
+               <l>
+                  <hi>If Love muſt yield,</hi>
+               </l>
+               <l>
+                  <hi>And quit the Field,</hi>
+               </l>
+               <l>
+                  <hi>Or Beauty Bend.</hi>
+               </l>
+               <l>
+                  <hi>Deſcend! ye Lords of Air, deſcend!</hi>
+               </l>
+               <l>Deſcend in a Machine to proper <hi>Muſick,</hi> 4 Heav'nly Spirits.</l>
+            </sp>
+            <sp>
+               <speaker>All Sing.</speaker>
+               <l>
+                  <hi>YOur Crown's not ſafe if he ſhould Live,</hi>
+               </l>
+               <l>
+                  <hi>The God's are unappeas'd,</hi>
+               </l>
+               <l>
+                  <hi>His Blood's our due; in vain you ſtrive,</hi>
+               </l>
+               <l>
+                  <hi>With Blood alone we're pleas'd.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Chorus of Coel.</speaker>
+               <l>
+                  <hi>For you the Sun has ſent her here,</hi>
+               </l>
+               <l>
+                  <hi>Destroy the Prince, and force the Fair.</hi>
+               </l>
+               <l>
+                  <hi>Say,</hi> Hell, <hi>Shall it be ſo?</hi>
+               </l>
+               <l>
+                  <hi>Yes, Wee're for it below;</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Caeleſt.</speaker>
+               <l>
+                  <hi>We above are for't too.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Both.</speaker>
+               <l>
+                  <hi>Well then it muſt be ſo;</hi>
+               </l>
+               <l>
+                  <hi>What Mortal can withstand</hi>
+               </l>
+               <l>
+                  <hi>What Heav'n and Hell command?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="23" facs="tcp:95497:18"/>Pr.</speaker>
+               <l>
+                  <hi>Then must</hi> Gualata <hi>dye?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Spir.</speaker>
+               <l>
+                  <hi>Yes</hi> Gualata <hi>muſt dye.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <l>
+                  <hi>And must</hi> Zaraida <hi>yield?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Spir.</speaker>
+               <l>
+                  <hi>Yes</hi> Zaraida <hi>muſt yield.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <l>
+                  <hi>What if ſhe ſhould deny?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Spir.</speaker>
+               <l>
+                  <hi>Then force her to comply.</hi>
+               </l>
+               <stage>Dance here, which ended, the Caeleſ. <hi>aſcend, and</hi> Infernal <hi>decend ſinging.</hi>
+               </stage>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>It ſhall be ſo, I love to ſee the Gods</l>
+               <l>Jocoſe, a ſign they're pleas d to ſerve my Love:</l>
+               <l>The Captive King ſhall dye, as fate Commands;</l>
+               <l>And what my Father ſent me ſhall be mine.</l>
+            </sp>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>'Tis fit your Majeſty ſhould pleaſe your ſelf.</l>
+               <stage>
+                  <hi>The Ghoſt of</hi> Dafila <hi>riſes between 'em.</hi>
+               </stage>
+            </sp>
+            <sp>
+               <speaker>Daf.</speaker>
+               <l>Is it ſo Father? but you're mine no more,</l>
+               <l>My Soul diſdams to pay my Bodies Debt.</l>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <l>Good Heav'ns! what make he ſtraggling here uncall'd?</l>
+            </sp>
+            <sp>
+               <speaker>Gho.</speaker>
+               <l>Uncall'd indeed by thee, as were all Spirits elſe,</l>
+               <l>For ſince your own can ſerve, why ſhould you trouble us?</l>
+               <l>Thy cheat's too groſs, to paſs on Heav'nly Minds</l>
+               <l>Scarce had I paſt the lagging hindmoſt Stars,</l>
+               <l>When loe our Mighty God my Voyage ſtop;</l>
+               <l>My Prieſt, ſaid he, forgetting all reſpect</l>
+               <l>To Right, preferring preſent Gold to future Heav'n,</l>
+               <l>Reverſes my decrees, and wreſts my Will,</l>
+               <l>Divides thoſe hearts I've joyn'd and takes the fair</l>
+               <l>From <hi>Barnagaſſo,</hi> whom my Soul admires;</l>
+               <l>Haſt! to my lov'd <hi>Gualata</hi> haſt, thence hie,</l>
+               <l>And to the Emperour declare my Will,</l>
+               <l>Tell him the Fair muſt be <hi>Gualata</hi>'s Wife:</l>
+               <l>Thus ſpoke the God, I all Obedience flew,</l>
+               <l>And now my Soul is eager to return,</l>
+               <l>I muſt be gone, reſolve t'obey, or dye.</l>
+            </sp>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>Poor ſuperſtitious Boy! <hi>Pri.</hi> O that my Charms</l>
+               <l>Could bind his Soul in Hell for this affront.</l>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>This Boy has ſhock'd my Soul, in vain I love,</l>
+               <l>If Heav'n oppoſe, in vain are all my Arts:</l>
+               <l>And yet, for he was Treacherous on Earth,</l>
+               <pb n="24" facs="tcp:95497:19"/>
+               <l>Perhaps he but deceives me now; the Prieſt</l>
+               <l>Sings moſt melodious to my Ears, his Voice</l>
+               <l>Like a deluding Syren leads me on,</l>
+               <l>Avert the Omen Heav'n! but this is true,</l>
+               <l>This I am ſures a Ghoſt, the Boy I kill'd,</l>
+               <l>Whom thwarted Heav'n has on this errand ſent,</l>
+               <l>The others are but counterfeited ſhapes,</l>
+               <l>Spirits too complaiſant to croſs my Will;</l>
+               <l>But ſhall I looſe her for a Childiſh Ghoſt?</l>
+               <l>Her whom I love? No, it is fixt, this Night</l>
+               <l>I'll graſp the Fair; how then ſhall Heavn' be ſerv'd?</l>
+               <l>As far as Love permits I will obey;</l>
+               <l>Go tell the Prince what Fate commands, yet that</l>
+               <l>My Mercy interceeds, if he will yield her mine.
+<stage>
+                     <hi>[To</hi> Zan.</stage>
+               </l>
+               <l>That part o'th' Oracle, his Life, I'll ſpare;</l>
+               <l>If not, this night he muſt ſubmit to Fate.
+<stage>[Exeunt ſeverally.</stage>
+               </l>
+            </sp>
+            <stage>SCENE <hi>changes to another Apartment of the Palace.</hi>
+            </stage>
+            <stage>
+               <hi>Enter</hi> Barnagaſſo <hi>and</hi> Zaraida.</stage>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>How happy my <hi>Zaraida</hi> are we! thus—</l>
+               <l>Belov'd of Heav'n, when Guardian Spirits watch,</l>
+               <l>And Gods grow careful of our lives? what harm</l>
+               <l>Can hurt us now, ſince they detect the cheat?</l>
+               <l>Let Prieſts damn on, kind Heav'n will ward the blow.</l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>All their mask'd Spirits are impoſtours found,</l>
+               <l>Their myſtick clew kind Heav'n untwiſts, the youth,</l>
+               <l>How wiſely Heav'n appoints its Inſtruments!</l>
+               <l>Who ſerv'd us when alive, ſerves us in death.</l>
+               <l>Oh we will gratefully our Tribute pay,</l>
+               <l>Or Crown'd, or Chain'd, we will Religious be,</l>
+               <l>But did this Meſſenger no more diſcloſe?</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>He ſeem'd to hope, yet doubted Fates decree,</l>
+               <l>He bade me be my ſelf, in all Diſtreſs,</l>
+               <l>Let Honour lead my thoughts, he ſaid no more,</l>
+               <l>Nor needed he. This was advice enough,</l>
+               <l>Fear not my Love, no pow'r can part us now,</l>
+               <l>Hell dare not, and ſure Heav'n will never change.</l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>Here comes one will endeavour it,</l>
+               <stage>
+                  <pb n="25" facs="tcp:95497:19"/>
+                  <hi>Enter to them</hi> Zanhaga.</stage>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Well how has Heav'n diſpos'd of me? am I</l>
+               <l>To live or dye? Say thou Ambaſſadour.</l>
+            </sp>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>'Tis true, both Hell, and Heav'n, have mark'd you dead,</l>
+               <l>Nay have requir'd it, as the only means</l>
+               <l>To ſave our ſelves, but yet our gracious King,</l>
+               <l>Unus'd to Cruelty, dares to offend</l>
+               <l>On Mercy's ſide, and mitigate your Doom.</l>
+               <l>Thus ſays our Monarch, if the Fair will yield,</l>
+               <l>I will Reſtore your Crowns, and be your Friend;</l>
+               <l>Nor think this hard, ſince Fate deſign'd her mine,</l>
+               <l>And asks your Life for your Preſumptious Love:</l>
+               <l>But that he ſpares, demanding only her.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Can he at once both give, and take my Life?</l>
+               <l>Thinks he the Body lives without the Soul?</l>
+               <l>Hence Trifler, with thy ſelf-refuting ſpeech;</l>
+               <l>But ſay, was it not fear extorted this,</l>
+               <l>Which now you lay on Mercy? was there not</l>
+               <l>A Boy, who gave the lye to your falſe Oracles?</l>
+               <l>A moſt unwelcome Gueſt at your repaſt?</l>
+            </sp>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>Since you miſconſtrue thus my Maſters Love,</l>
+               <l>Hear what his Mercy when Rejected can;</l>
+               <l>Tho Heav'n it ſelf ſhould juſtifie your claim,</l>
+               <l>He'd ſtill go on, and force her to his Bed.</l>
+               <l>Lay hold on Mercy e're it be too late;</l>
+               <l>Or ſhe muſt yield this Night, or you muſt dye.</l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>Where! wheres the King! my tears ſhall bend his mind,</l>
+               <l>Oh I will do what honour can permit,</l>
+               <l>To ſave my Dear, my <hi>Barnagaſſo</hi>'s like,</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Is it then poſſible you'll leave me thus?</l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>You are unkind my Lord to mention it.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Stay then, and bear with me what Heav'n appoints;</l>
+               <l>Back to your King, this anſwer give, tell him</l>
+               <l>He knows me not, or he had ſpar'd his gift,</l>
+               <l>I can as bravely ſpurn thoſe Lands, as he can give:</l>
+               <l>As for <hi>Zaraida,</hi> tell him nought of her,</l>
+               <l>Leſt he ſhould think I could be ſo debas'd,</l>
+               <l>As but to? ve ask'd my ſelf, to part with her.</l>
+               <l>Alas! tho in a Storm, we often throw</l>
+               <l>The neareſt Jewel o're, we ſtill preſerve our ſelves.</l>
+               <pb n="26" facs="tcp:95497:20"/>
+               <l>And what art thou but my immediate ſelf?
+<stage>[Embaces her.</stage>
+               </l>
+               <l>Go, tell thy Maſter, I'm prepar'd for Fate;</l>
+               <l>Yes I will dye, but how, is yet to be reſolv'd.
+<stage>
+                     <hi>[Exit cum</hi> Zaraida.</stage>
+               </l>
+               <stage>Manent, Zanhaga, Solus.</stage>
+            </sp>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>The manner of your Death's not much to me,</l>
+               <l>So you but dye; I thriſt not after Blood,</l>
+               <l>But as a ſervile ladder to my hopes,</l>
+               <l>Which I have now infallibly diſpos'd,</l>
+               <l>And ſhall by night have reach'd the top, what now</l>
+               <l>Remains ſince you're ſecure, but <hi>Jamoans</hi> life?</l>
+               <l>That ta'en, each Loyal head ſhall ſtraight be lopp'd,</l>
+               <l>I'll throw this Rubbiſh in to drink their Blood,</l>
+               <l>Leſt as Fools ſay, my Throne ſhould ſlipp'ry be;</l>
+               <l>This Mortar ſhall cement my walls, not Blood</l>
+               <l>Of Bulls more ſure, Fate proſper this deſign,</l>
+               <l>And Victims Blood ſhall make your Altars ſhine.
+<stage>[Exit.</stage>
+               </l>
+            </sp>
+            <trailer>Finis Auctus Tertii.</trailer>
+         </div>
+         <div type="act_and_scene">
+            <head>ACT IV. SCENE I.</head>
+            <stage>SCENE <hi>continues. Enter</hi> Barnagaſſo, Solus.</stage>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>IF Death but ends Deſpair, why all this noiſe?</l>
+               <l>Were it indeed to ceaſe to be, to leave</l>
+               <l>This gawdy ſomething, be reſolv'd to nough?</l>
+               <l>Yet were it better than unhappy life.</l>
+               <l>He, who enjoys a pleaſing Privacy,</l>
+               <l>We count moſt Bleſt, becauſe he's at quiet there?</l>
+               <l>And what is quiet, but the next degree</l>
+               <l>To nought? but one ſtep further, there's nothing.</l>
+               <l>Nothing is quiet in Perfection.</l>
+               <l>A voice! <hi>Zaraida</hi> ſings our Elegies!
+<stage>[Voice within.</stage>
+               </l>
+               <l>I'll liſten to her Airs, but I ſhould not,</l>
+               <l>For they're ſo ſweet, they'll draw me from my thoughts</l>
+               <l>Of Death, and charm me back to Life again.</l>
+               <stage>He retires to one ſide of the Stage while this Song's ſung within.</stage>
+               <stage>
+                  <hi>Sung by Mr.</hi> Freeman.</stage>
+               <l>
+                  <hi>Eaſe with ſoft Sleep your weary Eyes,</hi>
+               </l>
+               <l>
+                  <hi>Refreſh your Spirits till you riſe,</hi>
+               </l>
+               <l>
+                  <hi>While Muſick ſhall your dreams ſurprize.</hi>
+               </l>
+               <pb n="27" facs="tcp:95497:20"/>
+               <l>
+                  <hi>To me your fatal Birth is due,</hi>
+               </l>
+               <l>
+                  <hi>Doom'd by that God you never knew.</hi>
+               </l>
+               <l>
+                  <hi>To dye on Seas, where you were Tost,</hi>
+               </l>
+               <l>
+                  <hi>And thrown on Sooty</hi> Africk's <hi>Coast,</hi>
+               </l>
+               <l>
+                  <hi>Where falſely you to Creatures pray,</hi>
+               </l>
+               <l>
+                  <hi>And leave that God, your God's obey:</hi>
+               </l>
+               <l>
+                  <hi>Give not ſo ſoon to th' hungry Grave,</hi>
+               </l>
+               <l>
+                  <hi>That Beauty he profuſely gave:</hi>
+               </l>
+               <l>
+                  <hi>'Tis brave to bear with Miſery,</hi>
+               </l>
+               <l>
+                  <hi>Break not his Laws, nor ſtrive to dye,</hi>
+               </l>
+               <l>
+                  <hi>When he ſees fit, he'll ſet you free.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>How ſtrange her Fancy works! What Fear ſuggeſts!</l>
+               <l>Death ſeems too dreadful to her tender years!</l>
+               <l>I'll bear me, to relieve her troubl'd thoughts.
+<stage>[Exit.</stage>
+               </l>
+            </sp>
+            <stage>SCENE <hi>Drawn, diſcovers</hi> Zaraida <hi>Aſleep on the Couch, her Mothers Ghoſt by her.</hi> Ghoſt <hi>Deſcends.</hi>
+            </stage>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>Stop not your Airs, bleſt Shade! yet if you muſt,</l>
+               <l>Go tell <hi>Gualata,</hi> that we muſt not Dye<g ref="char:punc">▪</g>
+                  <stage>[In her ſleep.</stage>
+               </l>
+            </sp>
+            <stage>
+               <hi>Enter</hi> Barnagaſſo <hi>to her.</hi>
+            </stage>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>What faſt Aſleep! ſhe's gone to reſt t'inure</l>
+               <l>Her thoughts to Death; How Beautiful ſhe lyes!
+<stage>[Coming forward</stage>
+               </l>
+               <l>And feeds each Sence with exquiſite delights!</l>
+               <l>Oh ſhe has a continu'd round of Joys!</l>
+               <l>Which ſharpen, not abate deſire; Why Heaven!</l>
+               <l>Why was this ſweeteſt Beauty wretched made?</l>
+               <l>Oh! that ſome pitying God would ſeal my Eyes</l>
+               <l>With hers! be both for ever, ever ſeal'd!</l>
+               <l>How ſweet ſhe breaths! I'll catch the bleſt perfume,</l>
+               <l>And with ſoft Kiſſes I'll awake my Fair.
+<stage>[Kiſses her, ſhe ſtarts.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>Where! Where! my <hi>Barganaſſo,</hi> Where am I?</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Oh you are in a tender Husbands Arms!</l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>There hold me, till I have recover'd ſtrength.</l>
+               <l>To tell you how I have labour'd in my Sleep.</l>
+               <l>When I had left you full reſolv'd on Death,</l>
+               <l>My Sences frighted at the leap you meant,</l>
+               <l>Here I retir'd, to eaſe my burden'd Mind,</l>
+               <l>Expecting you; Sleep ſcarce had clos'd my Eyes,</l>
+               <l>When a Pale Ghoſt appear'd, and Sung ſuch Airs,</l>
+               <pb n="28" facs="tcp:95497:21"/>
+               <l>As both Inſtructed, and Delighted too.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>I heard a Voice, my Love, and thought 'twas yours,</l>
+               <l>Such Harmony is in your Thoughts, and Words,</l>
+               <l>That Muſick comes unfelt from both, in Dreams</l>
+               <l>You Chant ſuch Airs, as Charm the Drowſy'ſt Dead.</l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>How could I Dream of what I never thought?</l>
+               <l>My Soul was gone to reſt, had left to think,</l>
+               <l>Ev'n thought it ſelf was weary'd into ſleep;</l>
+               <l>It was no Dream caus'd by unſetl'd Thoughts,</l>
+               <l>How could I think of what I never knew?</l>
+               <l>My Lord; it was a Ghoſt, the unknown God</l>
+               <l>Forbids our deaths, you cannot, muſt not dye.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>That proves it but a Dream, the Child of Fear,</l>
+               <l>You form'd the danger great, for ſuccour flew</l>
+               <l>To Thoughts extravagantly wild and groſs.</l>
+               <l>Is there a God above our Glorious Sun?</l>
+               <l>The mighty Deity now jealous grown,</l>
+               <l>Checks the rude Queſtion; Oh my <hi>Zaraida!</hi>
+               </l>
+               <l>Let not our crimes draw down more thunderbolts,</l>
+               <l>And yet, forgive me Heav'n! I wiſh we could:</l>
+               <l>But be they ſuch, as end at once, not Plagues</l>
+               <l>That ling'ring, keep us cruelly alive!</l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>What is it your deſpair would urge you to?</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>I would ſecure my ſelf, and you from ſhame:</l>
+               <l>The luſtful King, back'd by the Cunning Prieſt,</l>
+               <l>Prepares for Force; How can you bear the thought of this?</l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>Oh never, never! I'll be only yours.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>I know you'd dye e're think of change, but pow'r</l>
+               <l>Too weakly anſwers to our will; his Slaves</l>
+               <l>Are train'd to Rapes, perhaps I too muſt view</l>
+               <l>The deed, if mortal eyes can bear what would</l>
+               <l>Deprive the Sun himſelf of ſight; Oh Heav'ns!</l>
+               <l>If there be yet a way to ſave my Love,</l>
+               <l>Shew it me, point it out to my dark Soul,</l>
+               <l>For Humane Wiſdom's at a loſs to help us.</l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>Truſt Heav'n, that ſure will guard my Innocence.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>'Tis too preſumptious to lye down at eaſe,</l>
+               <l>And leave the Gods to work our freedom out;</l>
+               <l>No: let's employ the little time we have</l>
+               <l>To live, in ſearching after death; for death's</l>
+               <pb n="29" facs="tcp:95497:21"/>
+               <l>The only means can ſave us now; inclos'd</l>
+               <l>By miſeries, on every ſide beſieg'd.</l>
+               <l>In vain I ſearch, no Nook, no Cranny's found,</l>
+               <l>No paſſage left unguarded to eſcape, but death.</l>
+               <l>Prepare, my faireſt Love, for we muſt dye:</l>
+               <l>Oh that ſo ſweet a thing ſhould want a Name</l>
+               <l>That's ſoft enough, t'expreſs how ſweet it is!</l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>I'm ever your obedient Wife; but death's</l>
+               <l>So terrible, it ſhakes my heart, yet worſe,</l>
+               <l>Much worſe 'twould be to part; How muſt we dye?</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Some death that's quick, for I expect with fear,</l>
+               <l>Each moment, when they'll force thee from my Arms:</l>
+               <l>Our Minutes are as dear as Miſer's Gold;</l>
+               <l>We have not time to ſtarve our Souls away,</l>
+               <l>Hell will o retake us ere that's done; but hold!</l>
+               <l>Here's one ſays he's my Friend, if he ſpeak true,</l>
+               <l>He'll not deny the Paſsport which I want.</l>
+            </sp>
+            <stage>
+               <hi>Enter to them the General</hi> Barſiloa.</stage>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>Forgive my abſeuce, which my place requir'd,</l>
+               <l>I've heard what cheats were us'd in th'Oracle,</l>
+               <l>And fearing the effects of juſt deſpair;</l>
+               <l>I'm come to bid you think of Life, of Love;</l>
+               <l>In ſpite of Prieſts you ſhall be great again.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>I Laugh to ſee you ſhoot ſo wide o'th' mark;</l>
+               <l>Yet if you mean by bravely dying, to be great,</l>
+               <l>I'm yours; no Prieſt indeed can hinder that.</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>No, you ſhall live; bleſt both with liberty and love.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Perhaps my Father's heard my earneſt Pray'r,</l>
+               <l>And ſends thee to point out a way to live.</l>
+               <l>Speak, if I can have honourable Life,</l>
+               <l>I muſt not dye, death would be a raſhneſs then,</l>
+               <l>Much unbecoming <hi>Barnagaſſo</hi>'s Soul.</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>Know then, in <hi>Tombu,</hi> ther'es a Law, preſerv'd</l>
+               <l>Theſe many years by Sacred care, enroll'd</l>
+               <l>By the Firſt King e're wore the Imperial Crown,</l>
+               <l>By this, the General who Victorious comes</l>
+               <l>From Foreign Wars, is Priviledg'd to Ask,</l>
+               <l>What his extreameſt wiſhes prompt him to,</l>
+               <l>Ev'n to the Crown h'as won.</l>
+            </sp>
+            <pb n="30" facs="tcp:95497:22"/>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Are theſe your mighty hopes? credulous Man!</l>
+               <l>Why didſt thou ſound ſo brave a Charge, to raiſe</l>
+               <l>My Spirits high with expectation vaſt;</l>
+               <l>Then ſink 'em down, unable to ſuſtain their weight?</l>
+               <l>Think'ſt thou a Law can bar his hot deſires?</l>
+               <l>He, who can trample on Divine Commands,</l>
+               <l>May ſafely break ſuch Mothy Bonds as theſe.</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>Still has it been inviolable kept:</l>
+               <l>With freſh repeated Oaths he Swore, to grant,</l>
+               <l>What e're Ambition, with red Vict'ry fluſht,</l>
+               <l>Could Ask, if I would Lead his Armys on.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>You Argue weaker ſtill; ſo lame his Oaths</l>
+               <l>Obſerv'd; he'd ſooner keep another Mans.</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>But 'tis his Intereſt That will go far;</l>
+               <l>He knows the Soldiers are at my Command,</l>
+               <l>Prone to reſent my injuries, as their own;</l>
+               <l>What tho' he's amorous, he loves his Crown</l>
+               <l>Too well, to loſe it for a moments ſport.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>That argument I confeſs were ſtrong,</l>
+               <l>For Fear works wonders, had he not ſuch helps,</l>
+               <l>As ne're can fail to buoy his Spirits up,</l>
+               <l>A States-man, burning Luſt, and a damn'd Prieſt,</l>
+               <l>If he's a Coward ſpite of theſe, 'tis ſtrange.</l>
+               <l>Oh! I've conſider'd well whatever look'd</l>
+               <l>The leaſt reſembling hope, and find no Ground</l>
+               <l>To Anchor in, but Death, immediate Death.</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>What ſhall I do to ſave ſo brave a Man?</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Give me a Sword, diſſwade me not from Death,</l>
+               <l>When life's a burden grown, think not I'd dye,</l>
+               <l>If I could live as <hi>Barnagaſſo</hi> ſhould.</l>
+               <l>If you're my Friend, as I can hardly doubt;</l>
+               <l>Relieve my wants, and charitably help</l>
+               <l>To end that Life, which I cannot preſerve.</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>Defer it but a moment more, till I</l>
+               <l>Can ſound the King, then if I fail, 'tis time</l>
+               <l>Enough to dye, a minute is not much,</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Should I let ſlip this moment Heav'n affords,</l>
+               <l>Perhaps, why do I ſay perhaps? I'm ſure</l>
+               <l>'Twill never, never come again.</l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>Nay now my Lord you're too unjuſt to me,</l>
+               <pb n="31" facs="tcp:95497:22"/>
+               <l>And to your ſelf, to ſlight ſo great a boon;</l>
+               <l>Deſpair when there is room for Hope, is mean,</l>
+               <l>And what is mean, can never enter here;</l>
+               <l>Death is unlawful, as you ſaid your ſelf,</l>
+               <l>While life can honourably be preſerv'd;</l>
+               <l>Come we will joyn our Forces, and intreat</l>
+               <l>A ſhort Reprieve, can you deny your Wife?</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>Can you deny your Friend, who begs you Live?</l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>My Lord I'm not acquainted yet with death,</l>
+               <l>Stay but an hour, you will not leave me ſure.</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>How can you need ſuch Courtſhip to your Life,</l>
+               <l>And to a happy one, if Heav'n can make it ſo?
+<stage>[Pointing to her.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>We conquer, ſee he yields! he melts apace!</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Do with me what you pleaſe, but much I fear;</l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>What my Lord?</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>That we ſhall live to Curſe this weak neglect.</l>
+               <stage>
+                  <hi>[Ex. cum</hi> Zar.</stage>
+               <stage>
+                  <hi>[The</hi> General <hi>at the other Door.</hi>
+               </stage>
+            </sp>
+            <stage>SCENE <hi>Changes to the Emperour's Apartment.</hi>
+            </stage>
+            <stage>
+               <hi>Enter the</hi> Emperour <hi>and</hi> Zanhaga.</stage>
+            <sp>
+               <speaker>Em.</speaker>
+               <l>Did he ſo haughtily reject my Gift?</l>
+            </sp>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>He bad me ſay he was prepar'd for Fate.</l>
+            </sp>
+            <sp>
+               <speaker>Em.</speaker>
+               <l>Then Fate ſhall be prepar'd for him; or falſe,</l>
+               <l>Or true, the Oracle ſhall now take place.</l>
+               <l>Away repenting thoughts! Remorſe avaunt,</l>
+               <l>Methinks <hi>I</hi> ſee his Soul already wing'd;</l>
+               <l>Bring me the Royal Bowl, <hi>Zanhaga,</hi> quick,</l>
+               <l>
+                  <hi>I'll</hi> drink its happy Voyage through th'Air.</l>
+            </sp>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>And <hi>Ill</hi> drink yours; now Fate thou'rt kind indeed.
+<stage>[Exit, and Returns with Two Bowls.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Em.</speaker>
+               <l>This 'tis to be a King, and fortunate:</l>
+               <l>Were <hi>I Gualata</hi> now, <hi>I</hi> were to dy.</l>
+            </sp>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>And were <hi>I</hi> either of you, ſo were <hi>I.</hi>
+                  <stage>[Aſide.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Em.</speaker>
+               <l>Come, give it me, <hi>Ill</hi> drink this Health, tho death</l>
+               <l>Were mixt inſeparably with the Draught.
+<stage>[Drinks.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Zan.</speaker>
+               <lg type="aside">
+                  <stage>Aſide.</stage>
+                  <l>That would not <hi>I,</hi> tho' Heav'n ſhould follow it,</l>
+                  <l>If Poyſon cauſes Death, he gueſſes well;</l>
+                  <l>However, there's no Robbery, he gets a Star,</l>
+                  <l>And <hi>I</hi> his Crown, he's pleas'd, and ſo am <hi>I.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Em.</speaker>
+               <l>Zanhaga, <hi>I</hi> forgot, you ſhould have drank of mine.</l>
+            </sp>
+            <pb n="32" facs="tcp:95497:23"/>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>My Lord, this Bowl is rich enough for me.</l>
+               <l>How wond'rous kind he is! Now I am great—
+<stage>[Drinks.</stage>
+               </l>
+               <l>
+                  <hi>Gualato, Tombu,</hi> are my own;</l>
+               <l>And all by Wit, by Politicks refin'd;</l>
+               <l>How I could hug my ſelf! and how applaud
+<stage>[Aſide.</stage>
+               </l>
+               <l>That brave ambition, which has urg'd me on!</l>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>Come my <hi>Zanhaga,</hi> 'tis not fit Death wait,</l>
+               <l>Love calls upon me to deſtroy this King,</l>
+               <l>And reap from thence what Love, and Beauty bring.</l>
+               <l>
+                  <hi>As they are going out, the</hi> General <hi>enters and ſtops 'em.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>I beg your Majeſty to hear my ſuit.</l>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>What is it <hi>Barſiloa?</hi> ſpeak, I'll hear.</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>'Tis in behalf of the whole Empire, of</l>
+               <l>Your ſelf, to puniſh whom the Gods would change</l>
+               <l>The courſe of Nature, rain cold Winter down,</l>
+               <l>A freezing Hell on ſcorching <hi>Africa,</hi>
+               </l>
+               <l>If Blood ſo Innocent be raſhly ſpilt.</l>
+            </sp>
+            <sp>
+               <speaker>Em.</speaker>
+               <l>What tends it that way then? <stage>(Aſide)</stage> Speak I'm in haſt.</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>I beg the gallant Priſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ner may be freed,</l>
+               <l>And his fair Wife giv'n to her Husbands arms.</l>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>Why ask'ſt thou not my Crown? as well thou may'ſt,</l>
+               <l>And ſooner ſhould ſucceed, proud inſolence!</l>
+               <l>Dareſt thou oppoſe thy ſelf to me, and Heav'n,</l>
+               <l>Who has requir'd his Death, and Doom'd her mine?</l>
+               <l>Away, I'll hear no more ſuch ſuits; lead on.</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>My Lord, 'tis what our Laws allow; my ſelf</l>
+               <l>Who made 'em Slaves, now beg they may be free.</l>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>Thoſe Laws one King has made, another may Revoke:</l>
+               <l>
+                  <hi>Zanhaga,</hi> ſure this cannot be your Son!</l>
+            </sp>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>I know not if he be my Son; a few</l>
+               <l>Hours more and he ſhall be my Slave. <stage>(Aſide.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>You can't but know the forgeries of the Prieſt,
+<stage>[To the Emp.</stage>
+               </l>
+               <l>His curs'd abuſe of Sacred Rites inflames</l>
+               <l>All <hi>Africk</hi> with a Pious Rage; if he</l>
+               <l>Muſt dye; twere better far, you tell the World</l>
+               <l>The true, the only cauſe; ſay he's the rub</l>
+               <l>To your ho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſt: Proclaim in <hi>Tombu's</hi> Streets,</l>
+               <l>
+                  <hi>Gualata</hi> dyes, that you may act the Beaſt</l>
+               <l>Securely with his Wife; this would be great,</l>
+               <l>Tho wicked, yet 'tis better than to skulk</l>
+               <pb n="33" facs="tcp:95497:23"/>
+               <l>Behind a poor pretence of Fates commands,</l>
+               <l>Which you your ſelf have countenanc'd the Prieſt</l>
+               <l>To forge; there is ſome Vertue in a bold</l>
+               <l>Attempt, but a mean action adds that ſin</l>
+               <l>To Cruelty, and dwindles you to nothing ſtraight.</l>
+            </sp>
+            <sp>
+               <speaker>Em.</speaker>
+               <l>Oh Love! how poor a God art thou! whoſe chains</l>
+               <l>So much debaſe whom they Subject, my Slave</l>
+               <l>Sees in my Face my heart, and braves me now.</l>
+            </sp>
+            <sp>
+               <speaker>Zan</speaker>
+               <l>My Lord 'tis time Fates orders were obey'd,</l>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>I thank thee, thou haſt rowz'd Revenge, and Love,</l>
+               <l>My Thunder firſt ſhall cruſh this Prince, then you.</l>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>'Tis not big words can fright your General,</l>
+               <l>Have you forgot?—Stay Sir, when firſt the War</l>
+               <l>Broke out, when <hi>Gualata</hi> all Revengeful flew,</l>
+               <l>To right his injur'd Honour, and his Love?</l>
+               <l>Remember Sir what fears your Army ſeiz'd,</l>
+               <l>—Even you your ſelf,</l>
+               <l>Who now can Thunder, trembled then; not Flags</l>
+               <l>By Winds more mov'd; you almoſt ſhook your Soul away.</l>
+               <l>What had become of your bravados then,</l>
+               <l>Had I not undertook the deſp'rate charge?</l>
+               <l>Kind Pray'rs, and tears were paid me then,</l>
+               <l>I thought 'em true, curſt fool! I did—I lead</l>
+               <l>Your Troops, where I've unfortunately won,</l>
+               <l>Conquer'd the beſt of Men, have chain'd a God.</l>
+               <l>For ſuch is <hi>Barnagaſſo</hi> to our World,</l>
+               <l>And now to be deny'd the common right;</l>
+               <l>Is baſe, and I return ingrate to you.</l>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>Audacious Villian! hence! Blaſpheme no more</l>
+               <l>With thy vile Tongue my Sacred Majeſty;</l>
+               <l>But that thy Fathers Services now plead</l>
+               <l>Aloud, my Royal Blood too, which thou ſhar'ſt,</l>
+               <l>For Mercy begs, thou Traytour hadſt been dead;</l>
+               <l>Loath too I am t'imbrue my hands afreſh,</l>
+               <l>In the ſame Purple Flood I ſpilt this day;</l>
+               <l>A thouſand things now force me t'excuſe thee,</l>
+               <l>The time calls on me for a nobler act,</l>
+               <l>To glut in Blood of Kings, not Slaves; yet e're</l>
+               <l>I go, to give th'aſpiring Soul ſome check;</l>
+               <l>I ſpurn thee Traytour from my preſence thus.
+<stage>Exit cum Zan.</stage>
+               </l>
+               <stage>
+                  <pb n="34" facs="tcp:95497:24"/>
+                  <hi>Manet</hi> Barſiola <hi>Solus.</hi>
+               </stage>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>Is that to check; thou art in love indeed!</l>
+               <l>Have I for this endur'd the Toyls of War,</l>
+               <l>Left a Luxurious Court for a rough Camp?</l>
+               <l>Forc'd my juſt heart to fight for Luſt, my Soul</l>
+               <l>To ſweat and drudge to pamper him for Rapes?</l>
+               <l>And am I ſpurn'd at laſt for my Reward?</l>
+               <l>My ſlighted wounds gape in their Maſters face,</l>
+               <l>Revenge, revenge, they cry—I'll right my ſelf</l>
+               <l>By force, my forming brain chalks out the way</l>
+               <l>Which I muſt tread—haſt then e're 'tis too late,</l>
+               <l>To right thy ſelf, and to prevent his Fate.
+<stage>[Exit.</stage>
+               </l>
+            </sp>
+            <trailer>Finis Actus Quarti.</trailer>
+         </div>
+         <div type="act_and_scene">
+            <head>ACT V. SCENE I.</head>
+            <stage>
+               <hi>Enter the</hi> Emperour, Barnagaſſo <hi>chain</hi>'d, Zaraida, Zanhaga, <hi>and</hi> Guards, Zaraida <hi>in disſhevell'd hair intreats the</hi> Emperour.</stage>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>OH ſpare him! ſpare him! ſpare my Husband's Life,</l>
+               <l>His Blood can't make you Beautiful to me,</l>
+               <l>'Twill paint you worſe than horrid Monſters are,</l>
+               <l>Why will you kill him then? O cruel King!</l>
+               <l>Is that the way to Love? becauſe he's mine,</l>
+               <l>He dyes, how can I love his Murderer?</l>
+               <l>My Eyes are weak, they cannot look on Blood,</l>
+               <l>That colour makes me weep: my Heart's ſo ſoft,</l>
+               <l>Like our quick plant from a rude touch it flyes,</l>
+               <l>But kindly opens to the gentle hand;</l>
+               <l>More mercy, and leſs Blood might do much more;</l>
+               <lg type="aside">
+                  <stage>[Aſide.</stage>
+                  <l>Oh! I d ſay any thing to ſave his Life;</l>
+                  <l>Which I have brought to ſuch a ſhameful Death;</l>
+                  <l>Oh could we now but dye with Honour, I were bleſt?</l>
+               </lg>
+            </sp>
+            <pb n="35" facs="tcp:95497:24"/>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Forgive me love, if I reproach thee now,</l>
+               <l>My Friend too who diſſwaded me from Death;</l>
+               <l>See what your pray'rs have done, I was unjuſt</l>
+               <l>When I would end this miſerable Life;</l>
+               <l>Oh my Prophetick fears are true! 'twas once</l>
+               <l>My own to dye, the happy minute fled</l>
+               <l>Unheeded by, the ſlighted Friend will ne're return.</l>
+               <l>Now lead me where you pleaſe, to death, which ne're</l>
+               <l>Can come too ſoon to a wiſe man; lead on.</l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>Why haſt you ſo my Lord? Death is not ſlow</l>
+               <l>To come, can you leave me for death?</l>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>My Love admits of no delay, ſpeak Fair,</l>
+               <l>Accept my flame, and he ſhall live, live great;</l>
+               <l>But for your ſelf, good Gods! the Earth ſhall groan,</l>
+               <l>Millions of Slaves ſhall ſweat in her rich veins,</l>
+               <l>Slaves who are born, and dye in Golden Mines;</l>
+               <l>Their e'ry ſtroke ſhall cleave an Empire forth,</l>
+               <l>The rough form'd <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſs ſhall looſe it's cloſe embrace,</l>
+               <l>The Embryo Gold ſhall from the Womb be torn,</l>
+               <l>And ſhall by curious art be form'd a new,</l>
+               <l>By pray'rs, or force, I will enjoy your charms.</l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>Vain Promiſes! you ask ſo high a price,</l>
+               <l>The Univerſe's now worth what I muſt give.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Vain Promiſes! you ask ſo high a price,</l>
+               <l>The Univerſe's now worth what I muſt give.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Spare all thy tears, <hi>Zaraida</hi> ſpare thy ſighs,</l>
+               <l>My life's not worth the Ranſom he requires.</l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>Oh cruel King are you a Man, yet bear</l>
+               <l>Unmov d what bent the ſtormy Winds and Seas?</l>
+               <l>My face alone could calm their Rage; but now</l>
+               <l>Nor that, nor tears, nor ſighs, can move your Breaſt.</l>
+               <l>My voice has loſt it's ſweetneſs now, Oh call</l>
+               <l>The Winds and Waves, call them not cruel now,</l>
+               <l>No more be they accurſt, for they were kind,</l>
+               <l>Much kinder than the curſed Monſter Man.</l>
+            </sp>
+            <sp>
+               <speaker>Em.</speaker>
+               <l>'Tis you are cruel now, curſe on't! I could</l>
+               <l>Force her Love, but then I've imperfect joy.
+<stage>[Aſide</stage>
+               </l>
+               <l>———Have you thought?
+<stage>
+                     <hi>[To</hi> Zar.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>Yes I have thought.</l>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>And what is the reſult?</l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>That if one crime can ſink a Soul to Hell,</l>
+               <l>Where will thy World of Murders hurry thee?</l>
+            </sp>
+            <pb n="36" facs="tcp:95497:25"/>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>To Heav'n poor fool, where ſhould great <hi>Jamoan</hi> go?</l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>What for Murder?</l>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>Ask thy ſelf that; if common Murder ſinks,</l>
+               <l>Where muſt thou go, whoſe hands are dipp'd</l>
+               <l>In a fond Husbands Blood?</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Why doſt thou ſport Almighty juſtice thus?</l>
+               <l>Think'ſt thou ſuch ſlight evaſions weigh with Heav'n?</l>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>If they weigh here, I look no further.</l>
+               <stage>[Aſide.</stage>
+               <l>How can you call me cruel? yet endure</l>
+               <l>Your Husbands limbs by drawing Engines ſtretch'd,</l>
+               <l>His Veins drawn fine as ſilken wefts;</l>
+               <l>His Blood inflam'd by journeyi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> on, now finds.</l>
+               <l>A longer courſe renew'd, and now it's dams</l>
+               <l>Broke down, irregularly runs, forc'd up</l>
+               <l>To the laſt limits of that little world,</l>
+               <l>It under dyes the white with ſcarlet ſtreakes;</l>
+               <l>The ſnowy Corps bluſhes at the diſgrace;</l>
+               <l>Can you bear this without reluctancy!</l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>Oh do you know ſo well the pains o'th' rack,</l>
+               <l>And yet can cruelly deſign him there</l>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>And now he curſes Heav'n, that made him young,</l>
+               <l>For life in youth is rivetted more cloſe</l>
+               <l>To the Inwrapping Fleſh.</l>
+               <l>Now he roars loud with more than Lyons rage,</l>
+               <l>And now he flings his Body forward on</l>
+               <l>The rack, provoking Death, who bears his taunts,</l>
+               <l>And ſervilely attends my nod, O life!</l>
+               <l>Wretched indeed, when Death, ſo terrible</l>
+               <l>To Humane thoughts, is languiſh'd for!</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Were it yet more wretched, I have a Soul</l>
+               <l>To bear it all, ceaſe then to threat, and do.</l>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>The burning Veſſel now boyls o're, he foams,</l>
+               <l>And froths at mouth, he ſtruggles with the choaking ſtench;</l>
+               <l>His Eye-balls ſtrain'd crack their ſuſpending threads,</l>
+               <l>And from their ſplinter'd jaggy roots a deluge flows.</l>
+               <l>Nature quite tir'd with paſſion, raves no more;</l>
+               <l>Yet ſtill the Body huggs th' unwilling Soul,</l>
+               <l>In fond Embraces locks the Spirit faſt,</l>
+               <l>Thriſting for Separation; Can you be</l>
+               <l>Yet unmov'd at this deſcription? Alas!</l>
+               <pb n="37" facs="tcp:95497:25"/>
+               <l>You little know the thouſand pains he bears.</l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>O <hi>Gualata!</hi> Now I feel, I fear for you,</l>
+               <l>My Female-Courage trembles at the thoughts;</l>
+               <l>Yet I'll not ſhrink a jot from Virtues Rules,</l>
+               <l>Nor give this Beauty to that Tyrants Arms,</l>
+               <l>Tho at my firſt Embrace, thy pains ſhould ceaſe.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Where are ye Gods if the loud fall of two</l>
+               <l>Such mighty wrecking Orbs can't rouze your ſouls?</l>
+               <l>Awake, nor let a Mortal brave ye thus.</l>
+            </sp>
+            <sp>
+               <speaker>Em.</speaker>
+               <l>Think, Can you bear to ſee him piece-meal torn?</l>
+               <l>His angry fleſh wrench'd from th' unwilling bones?</l>
+               <l>His Bowels ript, while Life yet ſhivers there?</l>
+               <l>His big heart, dancing in a Sea of Blood,</l>
+               <l>Shall firſt be maſh'd, then thrown into his Face.</l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>I cannot think it, thought ſtartles at it.</l>
+            </sp>
+            <sp>
+               <speaker>Em.</speaker>
+               <l>I'll aid your barren Imagination;</l>
+               <l>I'll lead you, where your eyes ſhall ſtraight behold</l>
+               <l>That horrour, which your lagging fancy could not reach.</l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>Hold! hold! tho all your arts can't make me yield,</l>
+               <l>I've heard enough to dye! farewell! <stage>[Swoons.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>That thou wert dead indeed! there all my fears</l>
+               <l>Would end; the weary Soul retires for eaſe.</l>
+            </sp>
+            <sp>
+               <speaker>Em.</speaker>
+               <l>By Heav'ns a lucky opportunity!</l>
+               <l>Bear her to the Royal Bed, and him to Death.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Oh ſtay! no pow'r ſhall force me hence, till ſhe</l>
+               <l>Revive, <hi>Zaraida!</hi> Curſe on my weak Voice!</l>
+               <l>Why was't not loud as Whirl-winds, Tempeſts roar?</l>
+               <l>Oh that my Chains could ring a loud alarm.</l>
+               <l>To wake the ſleeping Gods and her! Where Father! where!</l>
+               <l>Oh that my Teeth, my Nails could ſtraitway dig</l>
+               <l>Quite through this Globe, to find the wand'ring God!</l>
+               <l>What ſhall I do to ſave her from his Luſt?</l>
+               <l>I'll wake, or cruſh her Soul out with my weight.
+<stage>[Ruſhes upon her.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>Oh <hi>Barnagaſſo!</hi> Am I once more here!</l>
+               <l>Thus let my Kiſſes breath my Soul into</l>
+               <stage>Waking, gets be<g ref="char:EOLhyphen"/>tween his Arms.</stage>
+               <l>Your Body, that we may together dye.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Oh Love! nor Hell, nor Heav'n ſhall part us now.</l>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>Then Earth ſhall; Guards force her from him, or Racks</l>
+               <l>Unheard of be your Fate—unbind him firſt;
+<stage>[He ſtruggles.</stage>
+               </l>
+               <l>Then force her from her hold.</l>
+               <stage>
+                  <pb n="38" facs="tcp:95497:26"/>As they unbind him, he ſnatches a Sword, and holds her in his left hand.</stage>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Now I am looſe, no Power ſhall bind my Hands again.</l>
+            </sp>
+            <sp>
+               <speaker>Em.</speaker>
+               <l>Curſe on my Dalliance it has ruin'd all!</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>See King, my Fate is now my own; but I</l>
+               <l>Will live, live to revenge my ſelf, by Heav'ns!</l>
+               <l>'Tis ominous, 'tis the firſt time I ve graſp'd</l>
+               <l>A Manly Sword this day, this age of Slavery.</l>
+            </sp>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>This comes of ſlipping, when occaſion ſerves,</l>
+               <l>How e're I'm ſure of him, tho t'other lives.
+<stage>[Aſide.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Em.</speaker>
+               <l>See how amaz'd the Cowards look! ſeize him.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Come on, I ſhall at leaſt dye nobly now.</l>
+            </sp>
+            <sp>
+               <speaker>Em.</speaker>
+               <l>What Noiſe is that?
+<stage>[Noiſe within.</stage>
+               </l>
+               <stage>
+                  <hi>Enter</hi> Officer <hi>in haſt.</hi>
+               </stage>
+            </sp>
+            <sp>
+               <speaker>Off.</speaker>
+               <l>Fly, Sacred Sir preſerve your Life;</l>
+               <l>The General enrag'd at his Repulſe,</l>
+               <l>Has, with a Rebell's Fury, forc'd our Gates,</l>
+               <l>None dare oppoſe; my ſelf but hardly ſcap'd</l>
+               <l>The rolling Flood, to warn you of the War.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Oh my brave Friend! How have I wrong'd thy honeſty<g ref="char:punc">▪</g>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Em.</speaker>
+               <l>In vain is Flight; I muſt ſuſtain the ſhock.</l>
+            </sp>
+            <stage>
+               <hi>Enter</hi> Barſiloa, <hi>&amp;c.</hi>
+            </stage>
+            <sp>
+               <speaker>Gen.</speaker>
+               <l>Fall on, fall on; I have not time to Embrace</l>
+               <l>Thee now, anon I ſhall; let us diſpatch.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Come, Love, inſpire my Heart, while I engage</l>
+               <l>This Emperour! cruel; and Coward too!</l>
+            </sp>
+            <stage>
+               <hi>They Fight, beat the</hi> Emperour <hi>off, and clear the Stage.</hi>
+            </stage>
+            <stage>
+               <hi>Re-Enter the</hi> Emperour, Zanhaga, <hi>and</hi> 2 Guards, <hi>as in Flight.</hi>
+            </stage>
+            <sp>
+               <speaker>Em.</speaker>
+               <l>Ha! they have play'd me foul; I feel, beſides</l>
+               <l>My Wounds, a Murdering Enemy within:</l>
+               <l>The boyling Caldron roars, barb'd Irons prick</l>
+               <l>My tender'ſt part; bear me to th' Briny-Flood,</l>
+               <l>There let me plunge this Flaxen Taper down;</l>
+               <l>Wade through the dark Abyſs to quench my Blaze.</l>
+            </sp>
+            <pb n="39" facs="tcp:95497:26"/>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>Help me to bear him up.</l>
+            </sp>
+            <sp>
+               <speaker>Em.</speaker>
+               <l>Wide, wide Earth! burſt ope thy chilling womb!</l>
+               <l>In thy cold Ciſterns let me bathe my Flame;</l>
+               <l>Build me a Throne in <hi>Aquilunda</hi>'s Pool;</l>
+               <l>Turn here the <hi>Zaira</hi>'s courſe, I'll gape awide,</l>
+               <l>Through me it's Channel lyes; it ſhall come forth</l>
+               <l>Swift liquid Flame, painted with my Hearts-blood.</l>
+            </sp>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>Truſt me, I weep to ſee my Maſter thus.</l>
+            </sp>
+            <sp>
+               <speaker>Em.</speaker>
+               <l>That I could cleave to Hell! dig in rich Mines.</l>
+               <l>Of Winter! I'd feed on Cakes of Ice.</l>
+               <l>The Subterranean Field ſhould hiſs, ſhould ſlame,</l>
+               <l>Ev'n Snow ſhould burn; ſo catching is my Plague!</l>
+               <l>Off! I'll to Hell, the happyeſt Heaven is Hell.</l>
+            </sp>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>How cold he feels: <hi>Emp.</hi> I have my wiſh, I freeze.</l>
+               <l>But here <hi>Zaraida</hi> comes, 'ſt not a word;</l>
+               <l>She takes me for her Lord; Who is't dares hold me?</l>
+               <l>
+                  <hi>Barnagaſſo</hi> here! Dye fond Fool.
+<stage>
+                     <hi>[Stabs</hi> Zan.</stage>
+               </l>
+               <l>Now I'm King again! let Trumpets ſound!</l>
+               <l>For Mighty <hi>Jamoan,</hi> Great <hi>Tombu,</hi> Lives.</l>
+               <l>Ha! What haſt thou done! Kill d thy beſt Friends.</l>
+            </sp>
+            <sp>
+               <speaker>Zan.</speaker>
+               <l>Mourn not, for I've been before-hand with you:</l>
+               <l>Know, 'twas I Poyſon'd you to gain your Crown:</l>
+               <l>I Brib'd the Prieſt, to give the Pris'ner Death,</l>
+               <l>That I might wear a Triple Diadem.</l>
+               <l>I can't repent, were it to do again,</l>
+               <l>And the Temptation half ſo fair, I'd do't.</l>
+               <l>Make haſt, you cannot live,</l>
+               <l>I'll wait rhee at the Portal.
+<stage>[Dyes.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <l>I ſhall o'rtake thee e're thou fly'ſt ſo far;</l>
+               <l>Curs'd <hi>Zanhaga!</hi> my Blood will weigh thee down:</l>
+               <l>Oh Love! prepare my Starry Throne;</l>
+               <l>My Soul is wing'd, and as my Body ſinks, ſhe mounts.
+<stage>[Dyes.</stage>
+               </l>
+               <stage>
+                  <hi>Enter</hi> Barnagaſſo, <hi>the</hi> General, Zaraida, <hi>&amp;c.</hi>
+               </stage>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>This way th'aſtoniſh'd King retir'd; behold
+<stage>[Seeing them.</stage>
+               </l>
+               <l>Triumphant Death! How were theſe murders done?</l>
+            </sp>
+            <sp>
+               <speaker>Offi.</speaker>
+               <l>The King was Poyſon'd, as <hi>Zanhaga,</hi> e're</l>
+               <l>His Death Confeſs'd, by him, he too had brib'd</l>
+               <l>The Prieſt to ſpeak your Fate; the King depriv'd</l>
+               <l>Of Reaſon, by the Operating Draught,</l>
+               <l>Miſtaking him for you, deſtroy'd him.</l>
+            </sp>
+            <pb n="40" facs="tcp:95497:27"/>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>They ſhould have fall'n by me alone, but I</l>
+               <l>Submit to th' Will of Heav'n, take hence the Dead.</l>
+               <stage>Guards <hi>take them off.</hi>
+               </stage>
+               <l>I cannot, muſt not pity 'em, and 'tis</l>
+               <l>Not in my Nature to Inſult, to you</l>
+               <l>Who with your timely aid maintain'd what I</l>
+               <l>Begun, I give my Thanks in this Embrace,</l>
+               <l>And, as the next of Blood, ſalute you <hi>Tombu</hi>'s King.</l>
+            </sp>
+            <sp>
+               <speaker>Gen:</speaker>
+               <l>'Tis in your Love I glory more, than in</l>
+               <l>My Crown, which ſo ignobly does deſcend;</l>
+               <l>My Fathers crimes have made me great; I fought</l>
+               <l>Not to be King, but to relieve ſo brave</l>
+               <l>A Man, to be your Friend, I've not deſerv'd</l>
+               <l>That Name, yet I'll aſſume it thus.
+<stage>
+                     <hi>Embraces</hi> Bar.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Zar.</speaker>
+               <l>'Twere vain to offer at a payment of</l>
+               <l>Our debts to Heav'n, which had reduc'd us to</l>
+               <l>The worſt Extreams, and ſnatcht us thence to joys</l>
+               <l>Unthought of, unexpected bliſs; Heav'n has</l>
+               <l>Appear'd ſo partial for our good, that 'twere</l>
+               <l>A Sin to doubt its further care; ev'n our</l>
+               <l>Misfortunes ſeem but the kind Tryals of</l>
+               <l>A pious mind, our grief, a purging flame;</l>
+               <l>And now all Innocent we'll live, moſt bleſt.</l>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <l>Moſt bleſt indeed in my <hi>Zaraida</hi>'s Love,
+<stage>[Embraceing her.</stage>
+               </l>
+               <l>What wonders were for our Deliv'rance wrought!</l>
+               <l>Let none hereafter at misfortunes pine,</l>
+               <l>Let none deſpair, that hear our ſtory told;</l>
+               <l>Let each unhappy Man his Miſery</l>
+               <l>With patience bear, for Heav'n at laſt will ſet him Free.</l>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb n="40" facs="tcp:95497:28"/>
+         </div>
+      </body>
+   </text>
+</TEI>
